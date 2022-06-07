@@ -7,12 +7,29 @@ public_folder: "/uploads" # Where the media files can be accesed from the server
 publish_mode: editorial_workflow # For Drafts
 
 collections:
-  - name: "blog" # Used in routes, e.g., /admin/collections/blog
-    label: "Blog" # Used in the UI
-    folder: "content/blogs" # The path to the folder where the documents are stored
+  - name: "pages"
+    label: "Pages"
+    files:
+      - name: "documents"
+        label: "Documenti"
+        file: "content/pages/documenti.md"
+        fields:
+          - { label: "Title", name: "title", widget: "string"}
+          - { label: "Publish Date", name: "createdAt", widget: "datetime" }
+          - { label: "Update Date", name: "updatedAt", widget: "datetime" }
+          - { label: "Body", name: "body", widget: "markdown"}
+
+  - name: "articles"
+    label: "Articles"
+    folder: "content/articles" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
-    slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
-    fields: # The fields for each document, usually in front matter
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    fields:
       - {label: "Title", name: "title", widget: "string"}
-      - {label: "Publish Date", name: "date", widget: "datetime", date_format: "DD.MM.YYYY", time_format: "HH:mm", format: "LLL"}
+      - { label: "Publish Date", name: "createdAt", widget: "datetime" }
+      - { label: "Update Date", name: "updatedAt", widget: "datetime" }
+      - label: "Category"
+        name: "category"
+        widget: "select"
+        options: ["carta-del-mese"]
       - {label: "Body", name: "body", widget: "markdown"}

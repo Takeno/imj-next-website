@@ -1,5 +1,6 @@
 type PostType = {
-  title: string
-  date: string
-  content: string
-}
+  title: string;
+  createdAt: string;
+  updatedAt: string;
+  content: string;
+};
