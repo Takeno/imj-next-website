@@ -9,7 +9,7 @@ const Admin = () => {
     })();
   }, []);
 
-  return <div />;
+  return <div id="nc-root" />;
 };
 
 export default Admin;
