@@ -1,8 +1,11 @@
-import '../styles/globals.css';
+import type {ReactElement, ReactNode} from 'react';
+import type {NextPage} from 'next';
 import type {AppProps} from 'next/app';
+import ReactTooltip from 'react-tooltip';
+
 import BaseLayout from '../components/Layout/BaseLayout';
-import {NextPage} from 'next';
-import {ReactElement, ReactNode} from 'react';
+
+import '../styles/globals.css';
 
 type NextPageWithLayout = NextPage & {
   getLayout?: (page: ReactElement) => ReactNode;
@@ -16,8 +19,14 @@ function MyApp({Component, pageProps}: AppPropsWithLayout) {
   const getLayout =
     Component.getLayout ?? ((page) => <BaseLayout>{page}</BaseLayout>);
 
-  /* @ts-expect-error} */
-  return getLayout(<Component {...pageProps} />);
+  return (
+    <>
+      {/* @ts-expect-error} */}
+      {getLayout(<Component {...pageProps} />)}
+      {/* @ts-expect-error} */}
+      <ReactTooltip />
+    </>
+  );
 }
 
 export default MyApp;
