@@ -1,4 +1,4 @@
-import {useEffect} from 'react';
+import {ReactElement, useEffect} from 'react';
 
 const Admin = () => {
   useEffect(() => {
@@ -13,3 +13,7 @@ const Admin = () => {
 };
 
 export default Admin;
+
+Admin.getLayout = function getLayout(page: ReactElement) {
+  return page;
+};
