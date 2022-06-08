@@ -1,16 +1,14 @@
 import Head from 'next/head';
-import {getAllPosts} from '../utils/blog';
 import format from 'date-fns/format';
 import parseISO from 'date-fns/parseISO';
 import Link from 'next/link';
+import {getAllArticles} from '../utils/contents';
 
 type Props = {
-  posts: PostType[];
-  // morePosts: PostType[]
-  preview?: boolean;
+  posts: Article[];
 };
 
-const Articoli = ({posts, preview}: Props) => {
+const Articoli = ({posts}: Props) => {
   return (
     <>
       <Head>
@@ -44,13 +42,7 @@ const Articoli = ({posts, preview}: Props) => {
 export default Articoli;
 
 export async function getStaticProps() {
-  const posts = getAllPosts([
-    'title',
-    'slug',
-    'category',
-    'author',
-    'createdAt',
-  ]);
+  const posts = getAllArticles();
 
   return {
     props: {

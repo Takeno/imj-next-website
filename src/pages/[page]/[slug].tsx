@@ -1,28 +1,30 @@
-import {useRouter} from 'next/router';
-import ErrorPage from 'next/error';
 import Head from 'next/head';
+import {MDXRemoteSerializeResult} from 'next-mdx-remote';
+
 import format from 'date-fns/format';
 import parseISO from 'date-fns/parseISO';
-import {getAllPosts, getPostBySlug} from '../../utils/blog';
-import markdownToHtml from '../../utils/markdown-to-html';
 
-type Props = {
-  post: PostType;
-  // morePosts: PostType[]
-  preview?: boolean;
+import {GetStaticProps} from 'next';
+import {
+  getAllArticles,
+  getArticleBySlug,
+  prepareMarkdownContent,
+} from '../../utils/contents';
+import MarkdownContent from '../../components/MarkdownContent';
+
+interface SerializedArticle extends Omit<Article, 'content'> {
+  content: MDXRemoteSerializeResult;
+}
+
+type PageProps = {
+  post: SerializedArticle;
 };
 
-const Post = ({post, preview}: Props) => {
-  const router = useRouter();
-  if (!router.isFallback && !post?.title) {
-    return <ErrorPage statusCode={404} />;
-  }
-
+const Post = ({post}: PageProps) => {
   return (
     <>
       <Head>
         <title>{post.title}</title>
-        {/* <meta property="og:image" content={post.ogImage.url} /> */}
       </Head>
       <article className="mx-auto max-w-2xl">
         <h1 className="text-2xl tracking-tight font-extrabold text-gray-900 md:text-5xl mb-2">
@@ -32,10 +34,8 @@ const Post = ({post, preview}: Props) => {
           Scritto il{' '}
           <time>{format(parseISO(post.createdAt), 'dd/MM/yyyy')}</time>
         </p>
-        <div
-          className={'prose'}
-          dangerouslySetInnerHTML={{__html: post.content}}
-        />
+
+        <MarkdownContent content={post.content} />
       </article>
     </>
   );
@@ -43,21 +43,19 @@ const Post = ({post, preview}: Props) => {
 
 export default Post;
 
-type Params = {
-  params: {
-    page: string;
-    slug: string;
-  };
-};
+export const getStaticProps: GetStaticProps<
+  PageProps,
+  {slug: string}
+> = async ({params}) => {
+  const post = getArticleBySlug(params!.slug);
 
-export async function getStaticProps({params}: Params) {
-  const post = getPostBySlug(params.slug, [
-    'title',
-    'createdAt',
-    'slug',
-    'content',
-  ]);
-  const content = await markdownToHtml(post.content || '');
+  if (post === null) {
+    return {
+      notFound: true,
+    };
+  }
+
+  const content = await prepareMarkdownContent(post.content || '');
 
   return {
     props: {
@@ -67,10 +65,10 @@ export async function getStaticProps({params}: Params) {
       },
     },
   };
-}
+};
 
 export async function getStaticPaths() {
-  const posts = getAllPosts(['slug', 'category']);
+  const posts = getAllArticles();
 
   return {
     paths: posts.map((post) => {
