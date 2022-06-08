@@ -59,6 +59,12 @@ export async function getStaticProps({params}: Params) {
     'content',
   ]);
 
+  if (post === null) {
+    return {
+      notFound: true,
+    };
+  }
+
   const content = await markdownToHtml(post.content || '');
 
   return {
