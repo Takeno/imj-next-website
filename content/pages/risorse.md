@@ -1,7 +1,7 @@
 ---
 title: Risorse e documenti
-createdAt: 2022-06-07T22:57
-updatedAt: 2022-06-07T22:57
+createdAt: 2022-06-07T22:57:00
+updatedAt: 2022-06-07T22:57:00
 ---
 
 Archivio di documenti e regolamenti ufficiali DCI, incluse risorse per gli organizzatori (checklist e decklist). Aggiornati periodicamente.

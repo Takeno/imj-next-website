@@ -25,8 +25,14 @@ export function getPostBySlug(slug: string, fields: string[] = []) {
     if (field === 'slug') {
       items[field] = realSlug;
     }
+
     if (field === 'content') {
       items[field] = content;
+    }
+
+    if (field === 'createdAt' || field === 'updatedAt') {
+      items[field] = data[field]?.toISOString();
+      return;
     }
 
     if (typeof data[field] !== 'undefined') {

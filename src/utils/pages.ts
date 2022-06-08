@@ -35,6 +35,11 @@ export function getPageBySlug(slug: string, fields: string[] = []) {
       items[field] = content;
     }
 
+    if (field === 'createdAt' || field === 'updatedAt') {
+      items[field] = data[field]?.toISOString();
+      return;
+    }
+
     if (typeof data[field] !== 'undefined') {
       items[field] = data[field];
     }
