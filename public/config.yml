@@ -11,8 +11,8 @@ collections:
     label: "Pages"
     files:
       - name: "documents"
-        label: "Documenti"
-        file: "content/pages/documenti.md"
+        label: "Risorse"
+        file: "content/pages/risorse.md"
         fields:
           - { label: "Title", name: "title", widget: "string"}
           - { label: "Publish Date", name: "createdAt", widget: "datetime" }

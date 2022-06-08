@@ -1,9 +1,10 @@
 import {useRouter} from 'next/router';
 import ErrorPage from 'next/error';
 import Head from 'next/head';
+import format from 'date-fns/format';
+import parseISO from 'date-fns/parseISO';
 import {getAllPosts, getPostBySlug} from '../../utils/blog';
 import markdownToHtml from '../../utils/markdown-to-html';
-import BlogBody from '../../components/Blog/Body';
 
 type Props = {
   post: PostType;
@@ -18,13 +19,25 @@ const Post = ({post, preview}: Props) => {
   }
 
   return (
-    <article className="mb-32">
+    <>
       <Head>
         <title>{post.title}</title>
         {/* <meta property="og:image" content={post.ogImage.url} /> */}
       </Head>
-      <BlogBody post={post} />
-    </article>
+      <article className="mx-auto max-w-2xl">
+        <h1 className="text-2xl tracking-tight font-extrabold text-gray-900 md:text-5xl mb-2">
+          {post.title}
+        </h1>
+        <p className="text-sm italic text-gray-700 mb-10">
+          Scritto il{' '}
+          <time>{format(parseISO(post.createdAt), 'dd/MM/yyyy')}</time>
+        </p>
+        <div
+          className={'prose'}
+          dangerouslySetInnerHTML={{__html: post.content}}
+        />
+      </article>
+    </>
   );
 };
 
