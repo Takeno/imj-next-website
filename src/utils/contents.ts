@@ -5,6 +5,8 @@ import {object, string, SchemaOf} from 'yup';
 import {serialize} from 'next-mdx-remote/serialize';
 
 const pagesDirectory = join(process.cwd(), 'content/pages');
+const categoriesDirectory = join(process.cwd(), 'content/categories');
+const judgesDirectory = join(process.cwd(), 'content/judges');
 const articlesDirectory = join(process.cwd(), 'content/articles');
 
 const pageSchema: SchemaOf<Page> = object({
@@ -15,6 +17,23 @@ const pageSchema: SchemaOf<Page> = object({
   content: string().required(),
 });
 
+const categorySchema: SchemaOf<Category> = object({
+  title: string().required(),
+  slug: string().required(),
+  createdAt: string().required(),
+  updatedAt: string().required(),
+  content: string().required(),
+});
+
+const judgesSchema: SchemaOf<Judge> = object({
+  firstName: string().required(),
+  lastName: string().required(),
+  nickname: string().required(),
+  createdAt: string().required(),
+  updatedAt: string().required(),
+  bio: string().required(),
+});
+
 const articleSchema: SchemaOf<Article> = object({
   title: string().required(),
   slug: string().required(),
@@ -22,6 +41,8 @@ const articleSchema: SchemaOf<Article> = object({
   updatedAt: string().required(),
   content: string().required(),
   category: string().required(),
+  author: string().required(),
+  abstract: string().required(),
 });
 
 export function getAllPages(): Page[] {
@@ -84,6 +105,66 @@ export function getArticleBySlug(slug: string): Article | null {
   });
 
   return article;
+}
+
+export function getAllCategories(): Category[] {
+  const slugs = fs.readdirSync(categoriesDirectory);
+
+  return slugs
+    .map((slug) => getCategoryBySlug(slug))
+    .filter((p): p is Category => p !== null);
+}
+
+export function getCategoryBySlug(slug: string): Category | null {
+  const realSlug = slug.replace(/\.md$/, '');
+  const fullPath = join(categoriesDirectory, `${realSlug}.md`);
+
+  if (fs.existsSync(fullPath) === false) {
+    return null;
+  }
+
+  const fileContents = fs.readFileSync(fullPath, 'utf8');
+
+  const {data, content} = matter(fileContents);
+
+  const category = categorySchema.validateSync({
+    ...data,
+    slug: realSlug,
+    createdAt: data.createdAt?.toISOString(),
+    updatedAt: data.updatedAt?.toISOString(),
+    content,
+  });
+
+  return category;
+}
+
+export function getAllJudges(): Judge[] {
+  const slugs = fs.readdirSync(judgesDirectory);
+
+  return slugs
+    .map((slug) => getJudgeByNickname(slug))
+    .filter((p): p is Judge => p !== null);
+}
+
+export function getJudgeByNickname(slug: string): Judge | null {
+  const realSlug = slug.replace(/\.md$/, '');
+  const fullPath = join(judgesDirectory, `${realSlug}.md`);
+
+  if (fs.existsSync(fullPath) === false) {
+    return null;
+  }
+
+  const fileContents = fs.readFileSync(fullPath, 'utf8');
+
+  const {data, content} = matter(fileContents);
+
+  const judge = judgesSchema.validateSync({
+    ...data,
+    createdAt: data.createdAt?.toISOString(),
+    updatedAt: data.updatedAt?.toISOString(),
+  });
+
+  return judge;
 }
 
 export function prepareMarkdownContent(content: string) {

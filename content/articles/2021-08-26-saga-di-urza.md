@@ -2,7 +2,14 @@
 title: "Carta del Mese: Saga di Urza"
 createdAt: 2022-06-07T22:57:00
 updatedAt: 2022-06-08T15:28:17.140Z
+author: takeno
 category: carta-del-mese
+abstract: "Fino a pochi mesi fa, \"Saga di Urza\" era univocamente il nome di
+  una fondamentale espansione di Magic, uscita nel remoto 1998. Giugno 2021:
+  viene pubblicata Modern Horizons II, una espansione dal power level
+  decisamente elevato, che porterà sconquasso in tutti i formati in cui è
+  legale. Urza's Saga è una carta di MH2. Molto più che un inside joke, è una
+  delle carte più di valore e ricercate dell'es..."
 ---
 ![Saga di Urza - MH2](/uploads/mh2-259-urza-s-saga.jpg "Saga di Urza - MH2")
 

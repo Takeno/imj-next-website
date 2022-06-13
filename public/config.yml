@@ -19,17 +19,53 @@ collections:
           - { label: "Update Date", name: "updatedAt", widget: "datetime" }
           - { label: "Body", name: "body", widget: "markdown"}
 
-  - name: "articles"
-    label: "Articles"
-    folder: "content/articles" # The path to the folder where the documents are stored
-    create: true # Allow users to create new documents in this collection
-    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+  - name: "categories"
+    label: "Categories"
+    folder: "content/categories"
+    create: true
+    slug: "{{slug}}"
     fields:
-      - {label: "Title", name: "title", widget: "string"}
+      - { label: "Title", name: "title", widget: "string" }
       - { label: "Publish Date", name: "createdAt", widget: "datetime" }
       - { label: "Update Date", name: "updatedAt", widget: "datetime" }
+      - {label: "Body", name: "body", widget: "markdown"}
+
+  - name: "judges"
+    label: "Judges"
+    folder: "content/judges"
+    create: true
+    slug: "{{nickname}}"
+    fields:
+      - { label: "First Name", name: "firstName", widget: "string" }
+      - { label: "Last Name", name: "lastName", widget: "string" }
+      - { label: "Nickname", name: "nickname", widget: "string" }
+      - { label: "Publish Date", name: "createdAt", widget: "datetime" }
+      - { label: "Update Date", name: "updatedAt", widget: "datetime" }
+      - { label: "Bio", name: "bio", widget: "string" }
+      # - {label: "Body", name: "body", widget: "markdown"}
+
+  - name: "articles"
+    label: "Articles"
+    folder: "content/articles"
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Publish Date", name: "createdAt", widget: "datetime" }
+      - { label: "Update Date", name: "updatedAt", widget: "datetime" }
+      - label: "Author"
+        name: "author"
+        widget: "relation"
+        collection: "judges"
+        search_fields: ["firstName", "lastName", "nickname"]
+        value_field: "{{nickname}}"
+        display_fields: ["firstName", "lastName"]
       - label: "Category"
         name: "category"
-        widget: "select"
-        options: ["carta-del-mese"]
+        widget: "relation"
+        collection: "categories"
+        search_fields: ["title"]
+        value_field: "{{slug}}"
+        display_fields: ["title"]
+      - {label: "Abstract", name: "abstract", widget: "string"}
       - {label: "Body", name: "body", widget: "markdown"}

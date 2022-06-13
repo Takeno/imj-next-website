@@ -1,8 +1,7 @@
 import Head from 'next/head';
-import format from 'date-fns/format';
-import parseISO from 'date-fns/parseISO';
-import Link from 'next/link';
 import {getAllArticles} from '../utils/contents';
+import {PageTitle} from '../components/Typography';
+import ArticleList from '../components/Articles/ArticleList';
 
 type Props = {
   posts: Article[];
@@ -15,25 +14,20 @@ const Articoli = ({posts}: Props) => {
         <title>Tutti gli articoli su IMJ</title>
       </Head>
 
-      <article className="mx-auto max-w-2xl">
-        <h1 className="text-xl tracking-tight font-extrabold text-gray-900 sm:text-5xl md:text-6xl mb-10">
-          Tutti gli articoli
-        </h1>
+      <article className="mx-auto max-w-4xl px-4 md:px-0">
+        <PageTitle>Tutti gli articoli</PageTitle>
 
-        <ul className="list-disc">
-          {posts.map((post, index) => (
-            <li key={index}>
-              <Link href={`/${post.category}/${post.slug}`}>
-                <a>
-                  <h3 className="text-lg font-bold">{post.title}</h3>
-                </a>
-              </Link>
-              <time>{format(parseISO(post.createdAt), 'dd/MM/yyyy')}</time>
-              <br />
-              Categoria: {post.category}
-            </li>
-          ))}
-        </ul>
+        <p className="my-10">
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean a
+          felis ante. Maecenas sem arcu, maximus nec tincidunt quis, gravida ut
+          odio. Suspendisse convallis leo non purus venenatis, at sollicitudin
+          quam faucibus. Nunc hendrerit tincidunt risus, sit amet bibendum orci.
+          Vivamus pharetra congue ornare. Cras auctor nunc sed velit sagittis
+          tempor. Vivamus aliquet purus et sem tristique, sed accumsan quam
+          tristique.
+        </p>
+
+        <ArticleList articles={posts.concat([...posts, ...posts, ...posts])} />
       </article>
     </>
   );

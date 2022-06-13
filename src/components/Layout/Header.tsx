@@ -15,8 +15,8 @@ const navigation = [
 
 export default function Header() {
   return (
-    <header className="w-full max-w-7xl mx-auto">
-      <svg
+    <header className="w-full max-w-7xl mx-auto h-16">
+      {/* <svg
         className="hidden lg:block absolute right-0 inset-y-0 h-full w-48 text-white transform translate-x-1/2"
         fill="currentColor"
         viewBox="0 0 100 100"
@@ -24,7 +24,7 @@ export default function Header() {
         aria-hidden="true"
       >
         <polygon points="50,0 100,0 50,100 0,100" />
-      </svg>
+      </svg> */}
 
       <Popover>
         <div className="relative pt-6 px-4 sm:px-6 lg:px-8">
@@ -36,7 +36,7 @@ export default function Header() {
               <div className="flex items-center justify-between w-full md:w-auto">
                 <Link href="/">
                   <>
-                    <span className="sr-only">Workflow</span>
+                    <span className="sr-only">Italian Magic Judges</span>
                     <Image
                       alt="Workflow"
                       className="h-8 w-auto sm:h-10"
