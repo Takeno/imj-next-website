@@ -25,7 +25,7 @@ const Page = ({page}: PageProps) => {
         <title>{page.title}</title>
       </Head>
 
-      <article className="mx-auto max-w-2xl">
+      <article className="mx-auto max-w-2xl px-4 md:px-0">
         <h1 className="text-xl tracking-tight font-extrabold text-gray-900 sm:text-5xl md:text-6xl mb-2">
           {page.title}
         </h1>
