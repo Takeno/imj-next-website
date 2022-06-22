@@ -53,7 +53,9 @@ export const getStaticProps: GetStaticProps<
     };
   }
 
-  const posts = getAllArticles().filter((a) => a.category === category.slug);
+  const posts = getAllArticles()
+    .filter((a) => a.category === category.slug)
+    .sort((a, b) => b.createdAt.localeCompare(a.createdAt));
 
   const content = await prepareMarkdownContent(category.content || '');
 
