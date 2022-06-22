@@ -8,7 +8,7 @@ abstract: Torna la rubrica più amata dagli italiani, e torna con una carta molt
   giocata. Scopriamo finalmente come interagisce con Dress Down e con altre
   carte e situazioni.
 ---
-_Articolo originale di [Daniel Ossa](https://blogs.magicjudges.org/iberia-es/2022/02/11/carta-del-mes-ragavan-nimble-pilferer/), tradotto da Aruna Prem Bianzino_ 
+_Articolo originale di [Daniel Ossa](https://blogs.magicjudges.org/iberia-es/2022/02/11/carta-del-mes-ragavan-nimble-pilferer/), tradotto da Aruna Prem Bianzino._ 
 
 Torna la rubrica più amata dagli italiani, torna con una carta molto giocata, ma siate veloci a leggere questo articolo prima che Ragavan stesso ve lo rubi dalle mani!
 
