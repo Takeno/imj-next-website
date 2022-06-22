@@ -53,7 +53,94 @@ export default function Home() {
             </div>
           </div>
 
-          <div className="py-12 bg-white">
+          <section className="py-12 bg-gray-50">
+            <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-left">
+              <Link href="/risorse">
+                <a>
+                  <h2 className="tracking-tight font-bold text-gray-900 text-3xl hover:underline">
+                    Documenti utili
+                  </h2>
+                </a>
+              </Link>
+              <p className="text-xl">
+                Regole ufficiali e altri documenti utili per gestire i tuoi
+                tornei.
+              </p>
+            </div>
+          </section>
+
+          <section className="py-12 bg-white">
+            <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-left">
+              <div className="grid lg:grid-cols-2 mb-6">
+                <div className="col-span-1">
+                  <h2 className="tracking-tight font-bold text-gray-900 text-3xl">
+                    Rubriche
+                  </h2>
+                  <p className="text-xl">
+                    Approfondimenti su regole, meccaniche, gestione dei tornei,
+                    e tutto quello di cui hai bisogno per rimanere aggiornato.
+                  </p>
+                </div>
+              </div>
+              <div className="grid grid-cols-1 gap-12 lg:grid-cols-3">
+                <div className="justify-center">
+                  <Link href="/rubriche/carta-del-mese">
+                    <a>
+                      <h2 className="text-xl font-bold py-4 hover:underline text-orange-500">
+                        Carta del Mese
+                      </h2>
+                    </a>
+                  </Link>
+                  <p className="text-md">
+                    Ogni mese un articolo dedicato ad una staple di un formato
+                    così da essere preparati alle domande più frequenti.
+                  </p>
+                </div>
+                <div className="justify-center">
+                  <Link href="/rubriche/report-torneo">
+                    <a>
+                      <h2 className="text-xl font-bold py-4 hover:underline text-orange-500">
+                        Report di Torneo
+                      </h2>
+                    </a>
+                  </Link>
+                  <p className="text-md">
+                    Racconti e condivisioni di esperienze tra i tavoli di gioco.
+                  </p>
+                </div>
+                <div className="justify-center">
+                  <Link href="/rubriche/procedimenti-torneo">
+                    <a>
+                      <h2 className="text-xl font-bold py-4 hover:underline text-orange-500">
+                        Guide ai Procedimenti di Torneo
+                      </h2>
+                    </a>
+                  </Link>
+                  <p className="text-md">
+                    Articoli pratici e dettagliati su tematiche dedicate al
+                    mondo dell&apos;arbitraggio.
+                  </p>
+                </div>
+              </div>
+            </div>
+          </section>
+
+          <section className="py-12 bg-gray-50">
+            <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-left">
+              <Link href="/essere-judge">
+                <a>
+                  <h2 className="tracking-tight font-bold text-gray-900 text-3xl hover:underline">
+                    Essere Judge
+                  </h2>
+                </a>
+              </Link>
+              <p className="text-xl">
+                Cosa vuol dire essere arbitro di Magic e come diventarlo.
+              </p>
+            </div>
+          </section>
+
+          {/* <div className="py-12 bg-white">
             <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
               <div className="lg:text-center">
                 <h2 className="text-3xl font-semibold tracking-wide uppercase">
@@ -224,7 +311,7 @@ export default function Home() {
                 </dl>
               </div>
             </div>
-          </div>
+          </div> */}
         </div>
         <Footer />
       </main>
