@@ -33,3 +33,5 @@ interface Page {
   updatedAt: string;
   content: string;
 }
+
+type ManaType = 'W' | 'U' | 'B' | 'R' | 'G' | 'C' | 'X';

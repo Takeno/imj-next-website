@@ -1,4 +1,5 @@
 import {MDXRemote, MDXRemoteSerializeResult} from 'next-mdx-remote';
+import ManaType from './Icons/ManaValue';
 
 type Props = {
   content: MDXRemoteSerializeResult;
@@ -26,10 +27,20 @@ const components = {
   Card: MagicCard,
 };
 
+const scope = {
+  W: <ManaType type="W" />,
+  U: <ManaType type="U" />,
+  B: <ManaType type="B" />,
+  R: <ManaType type="R" />,
+  G: <ManaType type="G" />,
+  X: <ManaType type="X" />,
+  // I: <ManaType type="I" />,
+};
+
 export default function MarkdownContent({content}: Props) {
   return (
     <div className="prose">
-      <MDXRemote components={components} {...content} />
+      <MDXRemote components={components} {...content} scope={scope} />
     </div>
   );
 }
