@@ -31,7 +31,7 @@ Se possiamo lanciare Ragavan senza pagare il suo costo di mana grazie a qualche 
 D’altra parte, possiamo usare Dash anche da zone che non siano la nostra mano (cimitero, esilio, grimorio, etc.). Inclusa la zona di Comando, cari giocatori di Commander. La “Commander Tax” si applica sia al lancio normale che a quello con Dash e quando torna in mano a fine turno, possiamo scegliere di farlo tornare alla zona di Comando, invece, anche se a prima vista non sembra una buona idea…
 Ovviamente, se un Ragavan lanciato con Dash muore o viene esiliato, non ci tornerà in mano dal paradiso delle scimmie a fine turno.
 
-Se un Ragavan lanciato con Dash viene “blinkato” o “flickerato”[^1], poi non ci tornerà in mano a fine turno, già che quando lascia il gioco, torna come un oggetto nuovo, non influenzato dall’abilità innescata ritardata generata dal lancio dell’oggetto originale (stesso pezzo di cartone, ma per il gioco è un oggetto diverso).
+Se un Ragavan lanciato con Dash viene “blinkato” o “flickerato”<sup>1</sup>, poi non ci tornerà in mano a fine turno, già che quando lascia il gioco, torna come un oggetto nuovo, non influenzato dall’abilità innescata ritardata generata dal lancio dell’oggetto originale (stesso pezzo di cartone, ma per il gioco è un oggetto diverso).
 
 Se qualcuno crea una copia di un Ragavan lanciato con Dash o trasforma un altro oggetto in una copia, la copia non tornerà in mano alla fine del turno.
 Se un Ragavan viene lanciato con Dash, mentre esiste un effetto che gli toglie le abilità, tipo <Card>Dress Down</Card>, Ragavan non guadagna rapidità, ma torna in mano a fine turno. 
@@ -57,7 +57,7 @@ Per lanciare le magie esiliate con Ragavan dobbiamo pagare il loro costo di mana
 Speriamo di aver chiarito con questo articolo tutti i vostri dubbi su Ragavan e sulle sue interazioni stravaganti. Se avete altri dubbi, consultate il judge più vicino o scriveteci! 
 Alla prossima!
 
-[^1] _Blinkare_ si usa per indicare effetti che esiliano un permanente e lo fanno tornare subito sul campo di battaglia, come <Card>Momentary Blink</Card>, mentre _Flickerare_ si usa per indicare effetti che esiliano un permanente e lo fanno tornare sul campo di battaglia all’inizio della prossima sottofase finale, come <Card>Flickerwisp</Card>.
+<sup>1</sup> _Blinkare_ si usa per indicare effetti che esiliano un permanente e lo fanno tornare subito sul campo di battaglia, come <Card>Momentary Blink</Card>, mentre _Flickerare_ si usa per indicare effetti che esiliano un permanente e lo fanno tornare sul campo di battaglia all’inizio della prossima sottofase finale, come <Card>Flickerwisp</Card>.
 
 
 _Revisione a cura di Francesco Scialpi e Jacopo Strati._
