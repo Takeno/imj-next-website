@@ -7,6 +7,7 @@ import {MDXRemoteSerializeResult} from 'next-mdx-remote';
 import MarkdownContent, {
   prepareMarkdownContent,
 } from '../components/MarkdownContent';
+import {PageTitle} from 'components/Typography';
 
 interface SerializedPage extends Omit<Page, 'content'> {
   content: MDXRemoteSerializeResult;
@@ -23,15 +24,14 @@ const Page = ({page}: PageProps) => {
         <title>{page.title}</title>
       </Head>
 
-      <article className="mx-auto max-w-2xl px-4 md:px-0">
-        <h1 className="text-xl tracking-tight font-extrabold text-gray-900 sm:text-5xl md:text-6xl mb-2">
-          {page.title}
-        </h1>
-        <p className="text-sm italic text-gray-700 mb-10">
+      <article className="mx-auto max-w-4xl px-4 md:px-0">
+        <PageTitle>{page.title}</PageTitle>
+
+        <MarkdownContent content={page.content} />
+        <p className="text-sm italic text-gray-700 mt-10">
           Ultimo aggiornamento{' '}
           <time>{format(parseISO(page.updatedAt), 'dd/MM/yyyy')}</time>
         </p>
-        <MarkdownContent content={page.content} />
       </article>
     </>
   );

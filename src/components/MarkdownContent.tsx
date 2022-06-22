@@ -55,7 +55,7 @@ const scope = {
 
 export default function MarkdownContent({content}: Props) {
   return (
-    <div className="prose">
+    <div className="prose max-w-none">
       <MDXRemote components={components} {...content} scope={scope} />
     </div>
   );
