@@ -3,13 +3,14 @@ import {
   getAllArticles,
   getAllCategories,
   getCategoryBySlug,
-  prepareMarkdownContent,
 } from '../../../utils/contents';
 import {PageTitle} from '../../../components/Typography';
 import ArticleList from '../../../components/Articles/ArticleList';
 import {GetStaticProps} from 'next';
 import {MDXRemoteSerializeResult} from 'next-mdx-remote';
-import MarkdownContent from '../../../components/MarkdownContent';
+import MarkdownContent, {
+  prepareMarkdownContent,
+} from '../../../components/MarkdownContent';
 
 interface SerializedArticle extends Omit<Category, 'content'> {
   content: MDXRemoteSerializeResult;
@@ -32,7 +33,7 @@ const Articoli = ({category, posts}: PageProps) => {
 
         <MarkdownContent content={category.content} />
 
-        <ArticleList articles={posts.concat([...posts, ...posts, ...posts])} />
+        <ArticleList articles={posts} />
       </article>
     </>
   );

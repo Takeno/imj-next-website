@@ -1,4 +1,5 @@
 import {MDXRemote, MDXRemoteSerializeResult} from 'next-mdx-remote';
+import {serialize} from 'next-mdx-remote/serialize';
 import ManaType from './Icons/ManaValue';
 
 type Props = {
@@ -34,7 +35,22 @@ const scope = {
   R: <ManaType type="R" />,
   G: <ManaType type="G" />,
   X: <ManaType type="X" />,
-  // I: <ManaType type="I" />,
+  C: <ManaType type="C" />,
+  C1: <ManaType type="C1" />,
+  C2: <ManaType type="C2" />,
+  C3: <ManaType type="C3" />,
+  C4: <ManaType type="C4" />,
+  C5: <ManaType type="C5" />,
+  C6: <ManaType type="C6" />,
+  C7: <ManaType type="C7" />,
+  C8: <ManaType type="C8" />,
+  C9: <ManaType type="C9" />,
+  C10: <ManaType type="C10" />,
+  C11: <ManaType type="C11" />,
+  C12: <ManaType type="C12" />,
+  C13: <ManaType type="C13" />,
+  C15: <ManaType type="C15" />,
+  C16: <ManaType type="C16" />,
 };
 
 export default function MarkdownContent({content}: Props) {
@@ -43,4 +59,8 @@ export default function MarkdownContent({content}: Props) {
       <MDXRemote components={components} {...content} scope={scope} />
     </div>
   );
+}
+
+export function prepareMarkdownContent(content: string) {
+  return serialize(content.replace(/\{([0-9]{1,2})\}/, '{C$1}'));
 }

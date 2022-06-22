@@ -1,14 +1,12 @@
 import Head from 'next/head';
 import format from 'date-fns/format';
 import parseISO from 'date-fns/parseISO';
-import {
-  getAllPages,
-  getPageBySlug,
-  prepareMarkdownContent,
-} from '../utils/contents';
+import {getAllPages, getPageBySlug} from '../utils/contents';
 import {GetStaticProps} from 'next';
 import {MDXRemoteSerializeResult} from 'next-mdx-remote';
-import MarkdownContent from '../components/MarkdownContent';
+import MarkdownContent, {
+  prepareMarkdownContent,
+} from '../components/MarkdownContent';
 
 interface SerializedPage extends Omit<Page, 'content'> {
   content: MDXRemoteSerializeResult;

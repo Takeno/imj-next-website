@@ -7,9 +7,10 @@ import {
   getAllArticles,
   getArticleBySlug,
   getJudgeByNickname,
-  prepareMarkdownContent,
 } from '../../../utils/contents';
-import MarkdownContent from '../../../components/MarkdownContent';
+import MarkdownContent, {
+  prepareMarkdownContent,
+} from '../../../components/MarkdownContent';
 import {PageTitle} from '../../../components/Typography';
 import {labelFor} from '../../../utils/id-to-labels';
 

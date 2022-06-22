@@ -166,7 +166,3 @@ export function getJudgeByNickname(slug: string): Judge | null {
 
   return judge;
 }
-
-export function prepareMarkdownContent(content: string) {
-  return serialize(content);
-}

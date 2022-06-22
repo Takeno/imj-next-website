@@ -27,7 +27,7 @@ const Articoli = ({posts}: Props) => {
           tristique.
         </p>
 
-        <ArticleList articles={posts.concat([...posts, ...posts, ...posts])} />
+        <ArticleList articles={posts} />
       </article>
     </>
   );
