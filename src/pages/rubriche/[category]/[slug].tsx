@@ -28,6 +28,7 @@ const Post = ({post, author}: PageProps) => {
     <>
       <Head>
         <title>{post.title}</title>
+        <meta name="description" content={post.abstract} />
       </Head>
 
       <div className="w-full px-4 md:px-0 flex flex-col md:flex-row-reverse">

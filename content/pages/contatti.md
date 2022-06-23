@@ -22,5 +22,5 @@ Trovi tutto il necessario nella pagina [Essere Arbitro](/essere-arbitro).
 
 Se hai riscontrato un errore sul sito, in un articolo o semplicemente vuoi proporre una miglioria puoi contattare la redazione:
 
-- Aruba Prem Bianzino - responsabile dei contenuti
+- [Aruba Prem Bianzino](mailto:arunaprem.bianzino@gmail.com) - responsabile dei contenuti
 - [Matteo Manchi](mailto:matteo.manchi@gmail.com) - responsabile del sito

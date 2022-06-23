@@ -3,6 +3,7 @@ import Footer from 'components/Layout/Footer';
 import Header from 'components/Layout/Header';
 import Link from 'next/link';
 import {BookOpenIcon, DocumentTextIcon} from '@heroicons/react/outline';
+import balance from '../assets/ema-2-balance.jpeg';
 
 export default function Home() {
   return (
@@ -47,7 +48,7 @@ export default function Home() {
             <div className="lg:absolute lg:inset-y-0 lg:right-0 lg:w-1/2">
               <img
                 className="h-56 w-full object-cover object-top sm:h-72 md:h-96 lg:w-full lg:h-full"
-                src="https://assets.moxfield.net/cards/card-Yeg42-art_crop.webp"
+                src={balance.src}
                 alt="Balance"
               />
             </div>

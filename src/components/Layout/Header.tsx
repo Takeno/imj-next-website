@@ -35,7 +35,7 @@ export default function Header() {
             <div className="flex items-center flex-grow flex-shrink-0 lg:flex-grow-0">
               <div className="flex items-center justify-between w-full md:w-auto">
                 <Link href="/">
-                  <>
+                  <a>
                     <span className="sr-only">Italian Magic Judges</span>
                     <Image
                       alt="Workflow"
@@ -45,7 +45,7 @@ export default function Header() {
                       src={logo}
                       priority={true}
                     />
-                  </>
+                  </a>
                 </Link>
                 <div className="-mr-2 flex items-center md:hidden">
                   <Popover.Button className="bg-white rounded-md p-2 inline-flex items-center justify-center text-gray-400 hover:text-gray-500 hover:bg-gray-100 focus:outline-none focus:ring-2 focus:ring-inset focus:ring-indigo-500">
@@ -83,14 +83,18 @@ export default function Header() {
             <div className="rounded-lg shadow-md bg-white ring-1 ring-black ring-opacity-5 overflow-hidden">
               <div className="px-5 pt-4 flex items-center justify-between">
                 <div>
-                  <Image
-                    alt="Workflow"
-                    className="h-8 w-auto sm:h-10"
-                    height={40}
-                    width={74}
-                    src={logo}
-                    priority={true}
-                  />
+                  <Link href="/">
+                    <a>
+                      <Image
+                        alt="IMJ"
+                        className="h-8 w-auto sm:h-10"
+                        height={40}
+                        width={74}
+                        src={logo}
+                        priority={true}
+                      />
+                    </a>
+                  </Link>
                 </div>
                 <div className="-mr-2">
                   <Popover.Button className="bg-white rounded-md p-2 inline-flex items-center justify-center text-gray-400 hover:text-gray-500 hover:bg-gray-100 focus:outline-none focus:ring-2 focus:ring-inset focus:ring-indigo-500">
