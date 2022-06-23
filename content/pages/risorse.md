@@ -21,7 +21,7 @@ Le Regole dei Tornei di Magic definiscono come interagire nei tornei. Includono 
 
 ## Guida alle Infrazioni di Magic (IPG)
 
-La Guida alle Infrazioni di Magic fornisce agli arbitri l’informazione necessaria per applicare le penalità e stabilire i procedimenti adeguati in caso di violazione delle regole durante un torneo Competitivo o Professionale, oltre alla filosofia su cui si reggono. 
+La Guida alle Infrazioni di Magic fornisce agli arbitri l’informazione necessaria per applicare le penalità e stabilire i procedimenti adeguati in caso di violazione delle regole durante un torneo Competitivo o Professionale, oltre alla filosofia su cui si reggono.
 
 [IPG in inglese](https://media.wpn.wizards.com/attachements/mtg_ipg_5feb21_en_0.pdf)
 

@@ -1,14 +1,14 @@
 ---
-title: Carta del Mese - Ragavan, Nimble Pilferer
+title: "Carta del Mese: Ragavan, Nimble Pilferer"
 createdAt: 2022-06-22T11:22:49.594Z
 updatedAt: 2022-06-22T11:22:49.614Z
-author: aruna
+author: aru
 category: carta-del-mese
 abstract: Torna la rubrica più amata dagli italiani, e torna con una carta molto
   giocata. Scopriamo finalmente come interagisce con Dress Down e con altre
   carte e situazioni.
 ---
-_Articolo originale di [Daniel Ossa](https://blogs.magicjudges.org/iberia-es/2022/02/11/carta-del-mes-ragavan-nimble-pilferer/), tradotto da Aruna Prem Bianzino._ 
+_Articolo originale di [Daniel Ossa](https://blogs.magicjudges.org/iberia-es/2022/02/11/carta-del-mes-ragavan-nimble-pilferer/), tradotto da Aruna Prem Bianzino._
 
 Torna la rubrica più amata dagli italiani, torna con una carta molto giocata, ma siate veloci a leggere questo articolo prima che Ragavan stesso ve lo rubi dalle mani!
 
@@ -21,7 +21,7 @@ Da quando è diventato una carta (ok, dimentichiamoci della battuta sul token), 
 2/1 per un mana è già una buona base di partenza. Oltre a ciò ha anche Dash, un’abilità che gli attribuisce un costo alternativo - {1}{R}. Se usiamo questo costo alternativo, guadagnerà rapidità e tornerà in mano nella nostra prossima fase finale. Ha anche un’abilità che si innesca quando fa danno da combattimento ad un giocatore: crea un tesoro ed esilia la prima carta del mazzo del giocatore a cui ha fatto danno, permettendoci di lanciarla fino alla fine del turno. Sembra facile, vero? Ora andiamo a vedere le parti più interessanti!
 
 ### Dash
-Come detto prima, Dash è un costo alternativo. 
+Come detto prima, Dash è un costo alternativo.
 
 Giocare Ragavan con Dash è comunque un lancio di una magia, usa la pila e il suo valore di mana sarà comunque 1.
 
@@ -34,9 +34,9 @@ Ovviamente, se un Ragavan lanciato con Dash muore o viene esiliato, non ci torne
 Se un Ragavan lanciato con Dash viene “blinkato” o “flickerato”<sup>1</sup>, poi non ci tornerà in mano a fine turno, già che quando lascia il gioco, torna come un oggetto nuovo, non influenzato dall’abilità innescata ritardata generata dal lancio dell’oggetto originale (stesso pezzo di cartone, ma per il gioco è un oggetto diverso).
 
 Se qualcuno crea una copia di un Ragavan lanciato con Dash o trasforma un altro oggetto in una copia, la copia non tornerà in mano alla fine del turno.
-Se un Ragavan viene lanciato con Dash, mentre esiste un effetto che gli toglie le abilità, tipo <Card>Dress Down</Card>, Ragavan non guadagna rapidità, ma torna in mano a fine turno. 
+Se un Ragavan viene lanciato con Dash, mentre esiste un effetto che gli toglie le abilità, tipo <Card>Dress Down</Card>, Ragavan non guadagna rapidità, ma torna in mano a fine turno.
 
-Rapidità è a tutti gli effetti un’abilità che Ragavan guadagna, e può venire “sbianchettata”. 
+Rapidità è a tutti gli effetti un’abilità che Ragavan guadagna, e può venire “sbianchettata”.
 
 Tornare in mano è invece il risultato di un’abilità innescata ritardata che si crea quando Ragavan si risolve ed entra sul campo di battaglia, se lo avevamo giocato con Dash.
 
@@ -54,7 +54,7 @@ Se Ragavan guadagna attacco improvviso, potremo lanciare la carta esiliata ed us
 
 Per lanciare le magie esiliate con Ragavan dobbiamo pagare il loro costo di mana, mana colorato incluso (per quello creiamo tesori…). Possiamo anche usare costi alternativi e dobbiamo pagare eventuali costi addizionali.
 
-Speriamo di aver chiarito con questo articolo tutti i vostri dubbi su Ragavan e sulle sue interazioni stravaganti. Se avete altri dubbi, consultate il judge più vicino o scriveteci! 
+Speriamo di aver chiarito con questo articolo tutti i vostri dubbi su Ragavan e sulle sue interazioni stravaganti. Se avete altri dubbi, consultate il judge più vicino o scriveteci!
 Alla prossima!
 
 <sup>1</sup> _Blinkare_ si usa per indicare effetti che esiliano un permanente e lo fanno tornare subito sul campo di battaglia, come <Card>Momentary Blink</Card>, mentre _Flickerare_ si usa per indicare effetti che esiliano un permanente e lo fanno tornare sul campo di battaglia all’inizio della prossima sottofase finale, come <Card>Flickerwisp</Card>.
