@@ -6,7 +6,9 @@ import ManaR from '../../assets/mana/mana-r.svg';
 import ManaU from '../../assets/mana/mana-u.svg';
 import ManaW from '../../assets/mana/mana-w.svg';
 import ManaX from '../../assets/mana/mana-x.svg';
+import ManaS from '../../assets/mana/mana-s.svg';
 
+import Mana0 from '../../assets/mana/mana-0.svg';
 import Mana1 from '../../assets/mana/mana-1.svg';
 import Mana2 from '../../assets/mana/mana-2.svg';
 import Mana3 from '../../assets/mana/mana-3.svg';
@@ -35,26 +37,28 @@ const mana2image: Record<ManaType, string> = {
   U: ManaU,
   W: ManaW,
   X: ManaX,
+  S: ManaS,
 
-  C1: Mana1,
-  C2: Mana2,
-  C3: Mana3,
-  C4: Mana4,
-  C5: Mana5,
-  C6: Mana6,
-  C7: Mana7,
-  C8: Mana8,
-  C9: Mana9,
-  C10: Mana10,
-  C11: Mana11,
-  C12: Mana12,
-  C13: Mana13,
-  C15: Mana15,
-  C16: Mana16,
+  '0': Mana0,
+  '1': Mana1,
+  '2': Mana2,
+  '3': Mana3,
+  '4': Mana4,
+  '5': Mana5,
+  '6': Mana6,
+  '7': Mana7,
+  '8': Mana8,
+  '9': Mana9,
+  '10': Mana10,
+  '11': Mana11,
+  '12': Mana12,
+  '13': Mana13,
+  '15': Mana15,
+  '16': Mana16,
 };
 
 export default function ManaType({type}: ManaTypeProps) {
   return (
-    <Image alt="Mana symbol" src={mana2image[type]} width={14} height={14} />
+    <Image alt={`{${type}}`} src={mana2image[type]} width={14} height={14} />
   );
 }
