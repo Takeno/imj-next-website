@@ -1,4 +1,6 @@
 import Head from 'next/head';
+import {useEffect} from 'react';
+import ReactTooltip from 'react-tooltip';
 import {MDXRemoteSerializeResult} from 'next-mdx-remote';
 import format from 'date-fns/format';
 import parseISO from 'date-fns/parseISO';
@@ -24,6 +26,10 @@ type PageProps = {
 };
 
 const Post = ({post, author}: PageProps) => {
+  useEffect(() => {
+    ReactTooltip.rebuild();
+  });
+
   return (
     <>
       <Head>
