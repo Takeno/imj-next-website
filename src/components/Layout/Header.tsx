@@ -9,6 +9,7 @@ import logo from '../../assets/logo.png';
 const navigation = [
   {name: 'Home', href: '/'},
   {name: 'Risorse', href: '/risorse'},
+  {name: 'Essere Judge', href: '/essere-judge'},
   {name: 'Articoli', href: '/articoli'},
   {name: 'Contatti', href: '/contatti'},
 ];

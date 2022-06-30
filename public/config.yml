@@ -27,6 +27,14 @@ collections:
           - { label: "Publish Date", name: "createdAt", widget: "datetime" }
           - { label: "Update Date", name: "updatedAt", widget: "datetime" }
           - { label: "Body", name: "body", widget: "markdown"}
+      - name: "essere-judge"
+        label: "Essere Judge"
+        file: "content/pages/essere-judge.md"
+        fields:
+          - { label: "Title", name: "title", widget: "string"}
+          - { label: "Publish Date", name: "createdAt", widget: "datetime" }
+          - { label: "Update Date", name: "updatedAt", widget: "datetime" }
+          - { label: "Body", name: "body", widget: "markdown"}
 
   - name: "categories"
     label: "Categories"
