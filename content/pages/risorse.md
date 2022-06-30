@@ -25,7 +25,7 @@ La Guida alle Infrazioni di Magic fornisce agli arbitri l’informazione necessa
 
 [IPG in inglese](https://media.wpn.wizards.com/attachements/mtg_ipg_5feb21_en_0.pdf)
 
-## Arbitrando a Livello di Regole Normale (JAR)
+## REL Regular (JAR)
 
 Questo documento descrive come gestire le infrazioni nella maggior parte dei tornei di Magic giocati nei negozi.
 

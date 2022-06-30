@@ -3,7 +3,7 @@ title: Eventlink ad un evento grande
 createdAt: 2022-06-23T10:54:36.652Z
 updatedAt: 2022-06-23T10:54:36.679Z
 author: aru
-category: procedimenti-torneo
+category: procedure-torneo
 abstract: Analizziamo come l'uso di Eventlink ci influenza della gestione di
   tornei grandi, nel bene e nel male.
 ---

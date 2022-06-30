@@ -1,9 +1,9 @@
 ---
-title: Guida basica ad Eventlink
+title: Guida base ad Eventlink
 createdAt: 2022-06-23T22:05:22.701Z
 updatedAt: 2022-06-23T22:05:22.736Z
 author: aru
-category: procedimenti-torneo
+category: procedure-torneo
 abstract: Come gestire un torneo utilizzando Eventlink e Companion.
 ---
 _Articolo originale di [Raquel Monleon](https://blogs.magicjudges.org/iberia-es/2021/12/09/mini-guia-de-uso-del-eventlink/), tradotto da Aruna Prem Bianzino._

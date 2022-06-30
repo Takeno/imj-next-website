@@ -110,10 +110,10 @@ export default function Home() {
                   </p>
                 </div>
                 <div className="justify-center">
-                  <Link href="/rubriche/procedimenti-torneo">
+                  <Link href="/rubriche/procedure-torneo">
                     <a>
                       <h2 className="text-xl font-bold py-4 hover:underline text-orange-500">
-                        Guide ai Procedimenti di Torneo
+                        Guide alle Procedure di Torneo
                       </h2>
                     </a>
                   </Link>
