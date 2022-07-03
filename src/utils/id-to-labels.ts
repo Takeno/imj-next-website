@@ -3,7 +3,7 @@ const labels: Record<string, string> = {
   'procedure-torneo': 'Guida alle procedure di torneo',
 
   aru: 'Aruna Prem Bianzino',
-  'nonno-scialpi': 'Franesco Scialpi',
+  'nonno-scialpi': 'Francesco Scialpi',
 };
 
 export const labelFor = (str: string) => labels[str] || str;
