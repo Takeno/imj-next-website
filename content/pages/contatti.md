@@ -16,7 +16,7 @@ A breve sarà disponibile un modulo di contatto per richiedere un contatto da un
 
 ## Vuoi diventare arbitro?
 
-Trovi tutto il necessario nella pagina [Essere Arbitro](/essere-arbitro).
+Trovi tutto il necessario nella pagina [Essere Judge](/essere-judge).
 
 ## Sito e redazione
 

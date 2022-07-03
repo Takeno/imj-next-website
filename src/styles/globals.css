@@ -6,3 +6,7 @@
 html, body, #__next {
   @apply h-full;
 }
+
+.prose p > img:first-child {
+  margin: 2em auto;
+}

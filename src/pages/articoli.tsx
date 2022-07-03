@@ -2,6 +2,7 @@ import Head from 'next/head';
 import {getAllArticles} from '../utils/contents';
 import {PageTitle} from '../components/Typography';
 import ArticleList from '../components/Articles/ArticleList';
+import Link from 'next/link';
 
 type Props = {
   posts: Article[];
@@ -17,15 +18,34 @@ const Articoli = ({posts}: Props) => {
       <article className="mx-auto max-w-4xl px-4 md:px-0">
         <PageTitle>Tutti gli articoli</PageTitle>
 
-        <p className="my-10">
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean a
-          felis ante. Maecenas sem arcu, maximus nec tincidunt quis, gravida ut
-          odio. Suspendisse convallis leo non purus venenatis, at sollicitudin
-          quam faucibus. Nunc hendrerit tincidunt risus, sit amet bibendum orci.
-          Vivamus pharetra congue ornare. Cras auctor nunc sed velit sagittis
-          tempor. Vivamus aliquet purus et sem tristique, sed accumsan quam
-          tristique.
+        <p className="mt-10 mb-4">
+          Tutti gli articoli del sito, prodotti dalla nostra redazione e dalla
+          community.
         </p>
+
+        <p>Puoi anche sfogliarle per categorie:</p>
+
+        <ul className="flex flex-col md:flex-row justify-between">
+          <li>
+            <Link href="/rubriche/carta-del-mese">
+              <a className="underline font-bold">Carta del Mese</a>
+            </Link>
+          </li>
+
+          <li>
+            <Link href="/rubriche/procedure-torneo">
+              <a className="underline font-bold">
+                Guide alle Procedure di Torneo
+              </a>
+            </Link>
+          </li>
+
+          <li>
+            <Link href="/rubriche/report-torneo">
+              <a className="underline font-bold">Report di Torneo</a>
+            </Link>
+          </li>
+        </ul>
 
         <ArticleList articles={posts} />
       </article>

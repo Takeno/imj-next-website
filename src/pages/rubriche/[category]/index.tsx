@@ -11,6 +11,7 @@ import {MDXRemoteSerializeResult} from 'next-mdx-remote';
 import MarkdownContent, {
   prepareMarkdownContent,
 } from '../../../components/MarkdownContent';
+import Link from 'next/link';
 
 interface SerializedArticle extends Omit<Category, 'content'> {
   content: MDXRemoteSerializeResult;
@@ -33,7 +34,18 @@ const Articoli = ({category, posts}: PageProps) => {
 
         <MarkdownContent content={category.content} />
 
-        <ArticleList articles={posts} />
+        {posts.length > 0 ? (
+          <ArticleList articles={posts} />
+        ) : (
+          <div className="mt-10 text-2xl">
+            Non ci sono ancora articoli nella sezione. Vuoi essere il primo?{' '}
+            <br />
+            <Link href="/contatti">
+              <a className="underline">Contatta</a>
+            </Link>{' '}
+            la redazione!
+          </div>
+        )}
       </article>
     </>
   );

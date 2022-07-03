@@ -26,7 +26,7 @@ export default function ArticleList({articles}: ArticleListProps) {
             <Link href={`/rubriche/${article.category}`}>
               <a className="underline">{labelFor(article.category)}</a>
             </Link>
-            , a cura di {article.author}.
+            , a cura di {labelFor(article.author)}.
           </p>
 
           <p>{article.abstract}</p>
