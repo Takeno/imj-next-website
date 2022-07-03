@@ -4,10 +4,18 @@ import Header from 'components/Layout/Header';
 import Link from 'next/link';
 import {BookOpenIcon, DocumentTextIcon} from '@heroicons/react/outline';
 import balance from '../assets/ema-2-balance.jpeg';
+import Head from 'next/head';
 
 export default function Home() {
   return (
     <>
+      <Head>
+        <title>Italian Magic Judges</title>
+        <meta
+          name="description"
+          content="Benvenuti sul sito ufficiale degli arbitri italiani di Magic!"
+        />
+      </Head>
       <main className="flex flex-col h-full">
         <div className="flex-1">
           <div className="relative bg-white overflow-hidden">
