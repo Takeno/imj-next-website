@@ -66,7 +66,7 @@ export default function Home() {
             <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-left">
               <Link href="/risorse">
                 <a>
-                  <h2 className="tracking-tight font-bold text-gray-900 text-3xl hover:underline">
+                  <h2 className="tracking-tight font-bold text-3xl hover:underline text-orange-500">
                     Documenti utili
                   </h2>
                 </a>
@@ -138,7 +138,7 @@ export default function Home() {
             <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-left">
               <Link href="/essere-judge">
                 <a>
-                  <h2 className="tracking-tight font-bold text-gray-900 text-3xl hover:underline">
+                  <h2 className="tracking-tight font-bold text-3xl hover:underline text-orange-500">
                     Essere Judge
                   </h2>
                 </a>

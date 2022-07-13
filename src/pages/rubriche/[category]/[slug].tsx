@@ -15,6 +15,7 @@ import MarkdownContent, {
 } from '../../../components/MarkdownContent';
 import {PageTitle} from '../../../components/Typography';
 import {labelFor} from '../../../utils/id-to-labels';
+import Link from 'next/link';
 
 interface SerializedArticle extends Omit<Article, 'content'> {
   content: MDXRemoteSerializeResult;
@@ -50,7 +51,11 @@ const Post = ({post, author}: PageProps) => {
 
         <aside className="border-t pt-5 mt-5 md:w-[400px] md:border-r md:border-t-0 md:px-10 md:mt-0 md:pt-10 md:sticky md:top-0 md:h-screen">
           <h3 className="font-bold text-lg">Rubrica</h3>
-          <p>{labelFor(post.category)}</p>
+          <p>
+            <Link href={`/rubriche/${post.category}`}>
+              <a className="hover:underline">{labelFor(post.category)}</a>
+            </Link>
+          </p>
           <h3 className="font-bold text-lg pt-5">Autore</h3>
           <p>
             {author.firstName} {author.lastName}
