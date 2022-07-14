@@ -3,7 +3,6 @@ title: Contatti
 createdAt: 2022-06-22T22:57:00.504Z
 updatedAt: 2022-06-22T22:57:00.504Z
 ---
-
 Entra in contatto con la community arbitrale italiana.
 
 ## Dubbi su regole o policy?
@@ -22,10 +21,10 @@ Trovi tutto il necessario nella pagina [Essere Judge](/essere-judge).
 
 Se hai riscontrato un errore sul sito, in un articolo o semplicemente vuoi proporre una miglioria puoi contattare la redazione:
 
-- [Aruna Prem Bianzino](mailto:arunaprem.bianzino@gmail.com) - responsabile dei contenuti
-- [Matteo Manchi](mailto:matteo.manchi@gmail.com) - responsabile del sito
-- Matteo _Kalle_ Calegari - impiccione
-- Salvatore La Terra - Responsabile Blast From The Past
-- Walter Zarà - Revisore
-- Jacopo Strati - Revisore
-- Francesco Scialpi - Responsabile CdM
+* [Aruna Prem Bianzino](mailto:arunaprem.bianzino@gmail.com) - responsabile dei contenuti
+* [Matteo Manchi](mailto:matteo.manchi@gmail.com) - responsabile del sito
+* Matteo *Kalle* Callegari - impiccione
+* Salvatore La Terra - Responsabile Blast From The Past
+* Walter Zarà - Revisore
+* Jacopo Strati - Revisore
+* Francesco Scialpi - Responsabile CdM
