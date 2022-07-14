@@ -1,7 +1,9 @@
 import {ReactElement, useEffect} from 'react';
+import netlifyIdentity from 'netlify-identity-widget';
 
 const Admin = () => {
   useEffect(() => {
+    netlifyIdentity.init();
     (async () => {
       const CMS = (await import('netlify-cms-app')).default;
       CMS.init();
