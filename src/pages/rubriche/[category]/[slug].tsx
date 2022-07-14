@@ -60,13 +60,7 @@ const Post = ({post, author}: PageProps) => {
           <p>
             {author.firstName} {author.lastName}
           </p>
-
-          {author.bio && (
-            <>
-              <h3 className="font-bold text-lg pt-5">Biopic</h3>
-              <p>{author.bio}</p>
-            </>
-          )}
+          {author.bio && <p className="italic text-sm py-2">{author.bio}</p>}
 
           {/* <h3 className="font-bold text-lg pt-5">Revisore</h3>
           <p>Aruna il Bizantino</p> */}
