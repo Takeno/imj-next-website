@@ -89,4 +89,4 @@ Oppure, possiamo lanciare Dress Down quando la creatura entra in campo. In quest
 Eccoci alla fine di questo articolo, speriamo di aver risolto i vostri dubbi su Dress Down e magari di avervi fatto scoprire qualche interazione divertente. Se avete altri dubbi, chiedete al vostro arbitro di fiducia, o scriveteci!
 
 
-Revisione a cura di Francesco Scialpi.
+_Revisione a cura di Francesco Scialpi._
