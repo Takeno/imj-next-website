@@ -69,7 +69,7 @@ Bene, Dress Down eliminerà tutte le abilità, comprese le sue. Questa volta non
 
 ## <Card>Ragavan, Nimble Pilferer</Card>
 
-Per quanto riguarda la parte in cui <Card>Ragavan, Nimble Pilferer</Crd> “connette”, nessun dubbio: niente abilità, niente effetto. Ma cosa succede con Dash?
+Per quanto riguarda la parte in cui <Card>Ragavan, Nimble Pilferer</Card> “connette”, nessun dubbio: niente abilità, niente effetto. Ma cosa succede con Dash?
 
 Dash è composto da due parti: una innescata che fa tornare la creatura in mano, che non è un’abilità della creatura stessa, ma esterna e che quindi continua a funzionare anche con Dress Down in campo(anche se questa cosa non è implementata correttamente su MTGO), e una seconda parte che dà rapidità. O meglio, Dash dice _“As long as this permanent’s dash cost was paid, it has haste.”_ Questa parte sì che dipende da Dress Down e quindi, una volta in gioco, niente rapidità per la scimmia, né se entra prima né se entra dopo Dress Down.
 
