@@ -54,31 +54,31 @@ Davide e Mirko sono grandi amici, tengono le carte in comune, e sanno già che d
 ### Caso 2
 
 Nella stessa situazione di prima, Davide e Mirko devono giocare e solo il vincitore si qualifica ai quarti di finale. Quando finisce il round, sono sull'1-1. Da una breve discussione sulle altre partite che intanto sono finite, è chiaro che il mazzo di Mirko veleggerà verso il Pro Tour, mentre Davide farebbe molta più fatica. Davide concede.
-<details><summary>Soluzione</summary>**Legale.** Ancora una volta, lo split non ha influito sulla decisione e non è stato offerto come contropartita per la concessione. Usare le informazioni acquisite sugli altri giocatori e i loro risultati è consentito - non lo è, invece, giocare lentamente o rimanere al tavolo senza firmare l'entry slip per aspettare che le altre partite finiscano.</details>
+<details><summary>Soluzione</summary> **Legale.** Ancora una volta, lo split non ha influito sulla decisione e non è stato offerto come contropartita per la concessione. Usare le informazioni acquisite sugli altri giocatori e i loro risultati è consentito - non lo è, invece, giocare lentamente o rimanere al tavolo senza firmare l'entry slip per aspettare che le altre partite finiscano.</details>
 
 
 ### Caso 3
 
 Mirko ha già droppato, e pensa con impazienza al noiosissimo mirror di bianco - blu che Davide (suo compagno di viaggio) dovrà giocare all'ultimo turno con Gianluca. Vedendo l'amico molto stanco e sentendo che sulla strada per Bologna c'è il diluvio, il generoso Davide concede e proietta Gianluca ai quarti. Gianluca, commosso dalla virile amicizia tra i due, regala a Davide il box che vincerà nel caso peggiore.
 
-<details><summary>Soluzione</summary>**Legale.** La concessione non è avvenuta in cambio di qualcosa, è il risultato di una libera scelta. Assodato questo, i giocatori sono liberi di usare il loro premio come preferiscono.</details>
+<details><summary>Soluzione</summary> **Legale.** La concessione non è avvenuta in cambio di qualcosa, è il risultato di una libera scelta. Assodato questo, i giocatori sono liberi di usare il loro premio come preferiscono.</details>
 
 ### Caso 4
 
 Mirko sta giocando l'ultimo turno di svizzera con Gianluca. Un pareggio qualifica entrambi. Mirko propone a Gianluca di dividere i premi, l'altro accetta e firmano la slip con la patta intenzionale. Quando si incontrano in semifinale, Mirko droppa e manda Gianluca in finale a vincere per lui delle succose bustine. 
 
-<details><summary>Soluzione</summary>**Legale.** La patta in svizzera non è determinata dal fatto che i due abbiano splittato. In semifinale, anche se la decisione di concedere è stata probabilmente basata sullo split precedente, l'altro giocatore non ha usato lo split come incentivo per ottenere la concessione - anzi, non ha chiesto nulla all'avversario, che ha fatto tutto da solo.</details>
+<details><summary>Soluzione</summary> **Legale.** La patta in svizzera non è determinata dal fatto che i due abbiano splittato. In semifinale, anche se la decisione di concedere è stata probabilmente basata sullo split precedente, l'altro giocatore non ha usato lo split come incentivo per ottenere la concessione - anzi, non ha chiesto nulla all'avversario, che ha fatto tutto da solo.</details>
 
 ### Caso 5
 Davide sta giocando l'ultimo turno di svizzera con un certo Kai, che non ha mai visto. Il vincitore entra in Top 8. Davide propone a Kai questo accordo: «Chiunque di noi vinca, darà all'altro metà del suo premio.» Kai accetta, e Davide immediatamente concede per andarsi a fare una birra con l'amico di sempre Mirko.
 
-<details><summary>Soluzione</summary>**Legale.** La proposta di splittare e la concessione non sono state presentate da Davide come correlate. Kai ha accettato lo split senza pensare o pretendere che questo impattasse sul risultato della partita.</details>
+<details><summary>Soluzione</summary> **Legale.** La proposta di splittare e la concessione non sono state presentate da Davide come correlate. Kai ha accettato lo split senza pensare o pretendere che questo impattasse sul risultato della partita.</details>
 
 
 ### Caso 6
 Davide è in finale contro Kai a un grosso GP Trial che offre al vincitore un contributo per il viaggio fino al GP! Guardandolo freddamente, gli propone questo accordo: Kai droppa, prende tutte le buste in palio per i primi due, e quando Davide riceve il contributo per il viaggio corrisponderà a Kai la metà del suo valore. Intimorito, Kai accetta.
 
-<details><summary>Soluzione</summary>**Legale.** Il torneo offre un premio in denaro, che i giocatori possono dividersi liberamente. Naturalmente, se davvero Davide sborserà quello che ha promesso non è cosa di nostra competenza. Questo non è permesso in finale a un PTQ, perché il biglietto aereo non è un premio in denaro.
+<details><summary>Soluzione</summary> **Legale.** Il torneo offre un premio in denaro, che i giocatori possono dividersi liberamente. Naturalmente, se davvero Davide sborserà quello che ha promesso non è cosa di nostra competenza. Questo non è permesso in finale a un PTQ, perché il biglietto aereo non è un premio in denaro.
 </details>
 
 
@@ -86,7 +86,7 @@ Davide è in finale contro Kai a un grosso GP Trial che offre al vincitore un co
 ### Caso 7
 Davide è in semi-finale contro Gianluca, e gli propone questo accordo: Gianluca droppa, si prende tutte le buste che Davide vincerà, e in più Davide gli regala il suo set di Jace the Mind Sculptor, perché tanto dal prossimo PTQ saranno banditi. Gianluca accetta. 
 
-<details><summary>Soluzione</summary>**Non legale.** Non è permesso aggiungere nulla al premio in palio. Inoltre, i giocatori possono discutere accordi di questo tipo solo all'ultimo turno di eliminazione diretta.
+<details><summary>Soluzione</summary> **Non legale.** Non è permesso aggiungere nulla al premio in palio. Inoltre, i giocatori possono discutere accordi di questo tipo solo all'ultimo turno di eliminazione diretta.
 </details>
 
 
@@ -94,7 +94,7 @@ Davide è in semi-finale contro Gianluca, e gli propone questo accordo: Gianluca
 ### Caso 8
 Mirko e Gianluca giocano l'ultimo turno di svizzera. Gianluca propone a Mirko di concedere, e in cambio gli darà 100€ se vincerà il PTQ.
 
-<details><summary>Soluzione</summary>**Non legale.** Credo sia ovvio che Gianluca sta semplicemente comprando la partita.
+<details><summary>Soluzione</summary> **Non legale.** Credo sia ovvio che Gianluca sta semplicemente comprando la partita.
 </details>
 
 
@@ -102,7 +102,7 @@ Mirko e Gianluca giocano l'ultimo turno di svizzera. Gianluca propone a Mirko di
 ### Caso 9
 Cristiana e Gianluca stanno giocando l'ultimo turno di svizzera. Conoscendo il punto debole di Gianluca, Cristiana gli fa l'occhiolino mentre mischiano, dicendo che ci sono cose più divertenti del Magic, nella vita. Gianluca accusa un improvviso capogiro e concede. 
 
-<details><summary>Soluzione</summary>**Non legale.** Anche se l'offerta non è materiale è comunque illegale.
+<details><summary>Soluzione</summary> **Non legale.** Anche se l'offerta non è materiale è comunque illegale.
 </details>
 
 
@@ -110,7 +110,7 @@ Cristiana e Gianluca stanno giocando l'ultimo turno di svizzera. Conoscendo il p
 ### Caso 10
 Sandro sta giocando l'ultimo turno di svizzera con Gianluca, e prima di iniziare a mischiare butta in mezzo al tavolo il suo gonfio portafogli da professore ordinario. Gianluca capisce l'antifona, e concede. 
 
-<details><summary>Soluzione</summary>**Non legale.** Non c'è stata un'offerta verbale, ma il gesto è inequivocabile. È ovvio che Sandro sta cercando di corrompere Gianluca.
+<details><summary>Soluzione</summary> **Non legale.** Non c'è stata un'offerta verbale, ma il gesto è inequivocabile. È ovvio che Sandro sta cercando di corrompere Gianluca.
 </details>
 
 
@@ -118,7 +118,7 @@ Sandro sta giocando l'ultimo turno di svizzera con Gianluca, e prima di iniziare
 Mirko e Gianluca stanno giocando l'ultimo turno. Mirko dice: «Se dividiamo il premio, concedo e vado a farmi una birra con Davide.» 
 
 
-<details><summary>Soluzione</summary>**Non legale.** Mirko sta chiedendo uno split come incentivo per la concessione.
+<details><summary>Soluzione</summary> **Non legale.** Mirko sta chiedendo uno split come incentivo per la concessione.
 </details>
 
 - - -
