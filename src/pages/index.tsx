@@ -130,6 +130,19 @@ export default function Home() {
                     mondo dell&apos;arbitraggio.
                   </p>
                 </div>
+                <div className="justify-center">
+                  <Link href="/rubriche/blast-from-the-past">
+                    <a>
+                      <h2 className="text-xl font-bold py-4 hover:underline text-orange-500">
+                        Blast from the past
+                      </h2>
+                    </a>
+                  </Link>
+                  <p className="text-md">
+                    Articoli storici di grande valore, revisionati ed aggiornati
+                    per restare al passo con i tempi.
+                  </p>
+                </div>
               </div>
             </div>
           </section>

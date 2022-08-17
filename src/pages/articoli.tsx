@@ -45,6 +45,12 @@ const Articoli = ({posts}: Props) => {
               <a className="underline font-bold">Report di Torneo</a>
             </Link>
           </li>
+
+          <li>
+            <Link href="/rubriche/blast-from-the-past">
+              <a className="underline font-bold">Blast from the Past</a>
+            </Link>
+          </li>
         </ul>
 
         <ArticleList articles={posts} />

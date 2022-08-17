@@ -39,7 +39,7 @@ export default function Header() {
                   <a>
                     <span className="sr-only">Italian Magic Judges</span>
                     <Image
-                      alt="Workflow"
+                      alt="Italian Magic Judges logo"
                       className="h-8 w-auto sm:h-10"
                       height={40}
                       width={74}
