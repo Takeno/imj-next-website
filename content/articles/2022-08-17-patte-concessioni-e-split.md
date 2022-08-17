@@ -40,3 +40,7 @@ In pratica, una buona regola empirica è questa: se i giocatori dividono il prem
 Questo approccio è molto conservativo. Ciò che il regolamento proibisce è in effetti la causalità tra split e concessione, non la loro coesistenza: se due giocatori sono già d'accordo per uno split, possono ancora decidere la partita a tavolino, ma non è consentito usare lo split come incentivo per ottenere concessioni, patte intenzionali o drop.
 
 Presentiamo adesso alcuni esempi di situazioni che possono verificarsi ad un torneo. Cercate di decidere se secondo voi il comportamento dei giocatori è legale o meno, alla luce delle regole descritte sopra.
+
+
+
+* <details><summary>Davide e Mirko sono grandi amici, tengono le carte in comune, e sanno già che divideranno il premio del PTQ "per default". Quando si incontrano all'ultimo round, una patta intenzionale qualifica entrambi: compilano la slip e vanno a fasi una birra.</summary>**Legale.** È ovvio che i due giocatori avrebbero comunque pattato la partita, e lo split non è stato usato come leva per convincere l'altro a pattare.</details>
