@@ -48,7 +48,7 @@ Presentiamo adesso alcuni esempi di situazioni che possono verificarsi ad un tor
 
 Davide e Mirko sono grandi amici, tengono le carte in comune, e sanno già che divideranno il premio del PTQ "per default". Quando si incontrano all'ultimo round, una patta intenzionale qualifica entrambi: compilano la slip e vanno a fasi una birra.
 
-<details><summary>Soluzione</summary>**Legale.** È ovvio che i due giocatori avrebbero comunque pattato la partita, e lo split non è stato usato come leva per convincere l'altro a pattare.</details>
+<details><summary>Soluzione</summary> **Legale.** È ovvio che i due giocatori avrebbero comunque pattato la partita, e lo split non è stato usato come leva per convincere l'altro a pattare.</details>
 
 
 ### Caso 2
