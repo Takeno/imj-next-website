@@ -6,7 +6,7 @@ author: salvo
 category: blast-from-the-past
 abstract: Con questo articolo diamo inizio al recupero del contenuto storico di
   IMJ, che ancora oggi apporta grande valore. Il contenuto è stato aggiornato e
-  revisionatow per restare al passo con i tempi.
+  revisionato per restare al passo con i tempi.
 ---
 ![](https://c1.scryfall.com/file/scryfall-cards/art_crop/front/e/0/e0b099ef-4b43-4b63-a7fc-cec19cf29f4e.jpg?1562940128 "Bribery -  Illustrated by Andrew Robinson")
 
