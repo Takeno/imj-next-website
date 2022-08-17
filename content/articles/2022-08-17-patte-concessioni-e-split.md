@@ -2,8 +2,8 @@
 title: Patte, concessioni e split
 createdAt: 2022-08-17T11:07:10.165Z
 updatedAt: 2022-08-17T11:07:10.189Z
-author: aru
-category: carta-del-mese
+author: salvo
+category: blast-from-the-past
 abstract: Con questo articolo diamo inizio al recupero del contenuto storico di
   IMJ, che ancora oggi apporta grande valore. Il contenuto è stato aggiornato e
   revisionatow per restare al passo con i tempi.
@@ -50,6 +50,7 @@ Davide e Mirko sono grandi amici, tengono le carte in comune, e sanno già che d
 
 <details>
 <summary>Soluzione</summary>
+
 **Legale.** È ovvio che i due giocatori avrebbero comunque pattato la partita, e lo split non è stato usato come leva per convincere l'altro a pattare.
 </details>
 
@@ -60,6 +61,7 @@ Nella stessa situazione di prima, Davide e Mirko devono giocare e solo il vincit
 
 <details>
 <summary>Soluzione</summary>
+
 **Legale.** Ancora una volta, lo split non ha influito sulla decisione e non è stato offerto come contropartita per la concessione. Usare le informazioni acquisite sugli altri giocatori e i loro risultati è consentito - non lo è, invece, giocare lentamente o rimanere al tavolo senza firmare l'entry slip per aspettare che le altre partite finiscano.
 </details>
 
@@ -70,6 +72,7 @@ Mirko ha già droppato, e pensa con impazienza al noiosissimo mirror di bianco -
 
 <details>
 <summary>Soluzione</summary>
+
 **Legale.** La concessione non è avvenuta in cambio di qualcosa, è il risultato di una libera scelta. Assodato questo, i giocatori sono liberi di usare il loro premio come preferiscono.
 </details>
 
@@ -79,6 +82,7 @@ Mirko sta giocando l'ultimo turno di svizzera con Gianluca. Un pareggio qualific
 
 <details>
 <summary>Soluzione</summary>
+
 **Legale.** La patta in svizzera non è determinata dal fatto che i due abbiano splittato. In semifinale, anche se la decisione di concedere è stata probabilmente basata sullo split precedente, l'altro giocatore non ha usato lo split come incentivo per ottenere la concessione - anzi, non ha chiesto nulla all'avversario, che ha fatto tutto da solo.
 </details>
 
@@ -87,6 +91,7 @@ Davide sta giocando l'ultimo turno di svizzera con un certo Kai, che non ha mai 
 
 <details>
 <summary>Soluzione</summary>
+
 **Legale.** La proposta di splittare e la concessione non sono state presentate da Davide come correlate. Kai ha accettato lo split senza pensare o pretendere che questo impattasse sul risultato della partita.
 </details>
 
@@ -96,6 +101,7 @@ Davide è in finale contro Kai a un grosso GP Trial che offre al vincitore un co
 
 <details>
 <summary>Soluzione</summary>
+
 **Legale.** Il torneo offre un premio in denaro, che i giocatori possono dividersi liberamente. Naturalmente, se davvero Davide sborserà quello che ha promesso non è cosa di nostra competenza. Questo non è permesso in finale a un PTQ, perché il biglietto aereo non è un premio in denaro.
 </details>
 
@@ -106,6 +112,7 @@ Davide è in semi-finale contro Gianluca, e gli propone questo accordo: Gianluca
 
 <details>
 <summary>Soluzione</summary>
+
 **Non legale.** Non è permesso aggiungere nulla al premio in palio. Inoltre, i giocatori possono discutere accordi di questo tipo solo all'ultimo turno di eliminazione diretta.
 </details>
 
@@ -116,6 +123,7 @@ Mirko e Gianluca giocano l'ultimo turno di svizzera. Gianluca propone a Mirko di
 
 <details>
 <summary>Soluzione</summary>
+
 **Non legale.** Credo sia ovvio che Gianluca sta semplicemente comprando la partita.
 </details>
 
@@ -126,6 +134,7 @@ Cristiana e Gianluca stanno giocando l'ultimo turno di svizzera. Conoscendo il p
 
 <details>
 <summary>Soluzione</summary>
+
 **Non legale.** Anche se l'offerta non è materiale è comunque illegale.
 </details>
 
@@ -136,6 +145,7 @@ Sandro sta giocando l'ultimo turno di svizzera con Gianluca, e prima di iniziare
 
 <details>
 <summary>Soluzione</summary>
+
 **Non legale.** Non c'è stata un'offerta verbale, ma il gesto è inequivocabile. È ovvio che Sandro sta cercando di corrompere Gianluca.
 </details>
 
@@ -145,6 +155,7 @@ Mirko e Gianluca stanno giocando l'ultimo turno. Mirko dice: «Se dividiamo il p
 
 <details>
 <summary>Soluzione</summary>
+
 **Non legale.** Mirko sta chiedendo uno split come incentivo per la concessione.
 </details>
 
