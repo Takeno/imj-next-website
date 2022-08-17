@@ -1,5 +1,6 @@
 import {ReactElement, useEffect} from 'react';
 import netlifyIdentity from 'netlify-identity-widget';
+import * as SpoilerBlock from '../../components/Admin/SpoilerBlock';
 
 const Admin = () => {
   useEffect(() => {
@@ -7,7 +8,7 @@ const Admin = () => {
     (async () => {
       const CMS = (await import('netlify-cms-app')).default;
       CMS.init();
-      // CMS.registerPreviewTemplate('blog', BlogBody)
+      CMS.registerEditorComponent(SpoilerBlock.EditorConfiguration);
     })();
   }, []);
 
