@@ -8,6 +8,9 @@ abstract: Con questo articolo diamo inizio al recupero del contenuto storico di
   IMJ, che ancora oggi apporta grande valore. Il contenuto è stato aggiornato e
   revisionatow per restare al passo con i tempi.
 ---
+![](https://c1.scryfall.com/file/scryfall-cards/art_crop/front/e/0/e0b099ef-4b43-4b63-a7fc-cec19cf29f4e.jpg?1562940128 "Bribery -  Illustrated by Andrew Robinson")
+
+
 Il vincitore di un torneo di Magic dovrebbe essere determinato unicamente dal risultato delle partite di Magic giocate. Tuttavia, i giocatori di Magic sono per natura degli ottimizzatori, e odiano perdere molto più di quanto non amino vincere. Per questo motivo, faranno di tutto per ridurre l'aleatorietà dei loro risultati e il rischio di tornare a casa a mani vuote.
 
 L'ideale sarebbe che tutte le partite venissero giocate e si concludessero con un vincitore. Tuttavia, anche se esistesse una regola “anti-patta” in tal senso, sarebbe molto difficile da far rispettare: possiamo invitare i giocatori a giocare *velocemente*, ma di certo non a giocare *meglio*. Personalmente, non vorrei trovarmi nella situazione di dover decidere se un giocatore non si sia realmente accorto di avere la vittoria in pugno o se si sia accordato col suo avversario per pattare. Per questo, consentiamo ai giocatori di accordarsi per una patta intenzionale.
@@ -41,9 +44,10 @@ Questo approccio è molto conservativo. Ciò che il regolamento proibisce è in 
 
 Presentiamo adesso alcuni esempi di situazioni che possono verificarsi ad un torneo. Cercate di decidere se secondo voi il comportamento dei giocatori è legale o meno, alla luce delle regole descritte sopra.
 
-
 ### Caso 1
+
 Davide e Mirko sono grandi amici, tengono le carte in comune, e sanno già che divideranno il premio del PTQ "per default". Quando si incontrano all'ultimo round, una patta intenzionale qualifica entrambi: compilano la slip e vanno a fasi una birra.
+
 <details><summary>Soluzione</summary>**Legale.** È ovvio che i due giocatori avrebbero comunque pattato la partita, e lo split non è stato usato come leva per convincere l'altro a pattare.</details>
 
 
@@ -117,11 +121,8 @@ Mirko e Gianluca stanno giocando l'ultimo turno. Mirko dice: «Se dividiamo il p
 <details><summary>Soluzione</summary>**Non legale.** Mirko sta chiedendo uno split come incentivo per la concessione.
 </details>
 
-
----
+- - -
 
 Per concludere, ricordiamo che la comunicazione tra i giocatori, specialmente tra i più scaltri, può essere appositamente nebulosa per provare ad aggirare le regole. Anche per questo è buona prassi orbitare attorno ai tavoli più alti quando c’è l’ultimo turno prima della Top8, per captare eventuali bat-segnali.
 
-
-_Revisione a cura di Eleonora Siorpaes_
-
+*Revisione a cura di Eleonora Siorpaes*
