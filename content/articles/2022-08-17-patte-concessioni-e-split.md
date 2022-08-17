@@ -42,5 +42,12 @@ Questo approccio è molto conservativo. Ciò che il regolamento proibisce è in 
 Presentiamo adesso alcuni esempi di situazioni che possono verificarsi ad un torneo. Cercate di decidere se secondo voi il comportamento dei giocatori è legale o meno, alla luce delle regole descritte sopra.
 
 
+### Caso 1
+Davide e Mirko sono grandi amici, tengono le carte in comune, e sanno già che divideranno il premio del PTQ "per default". Quando si incontrano all'ultimo round, una patta intenzionale qualifica entrambi: compilano la slip e vanno a fasi una birra.
+<details><summary>Soluzione</summary>**Legale.** È ovvio che i due giocatori avrebbero comunque pattato la partita, e lo split non è stato usato come leva per convincere l'altro a pattare.</details>
 
-* <details><summary>Davide e Mirko sono grandi amici, tengono le carte in comune, e sanno già che divideranno il premio del PTQ "per default". Quando si incontrano all'ultimo round, una patta intenzionale qualifica entrambi: compilano la slip e vanno a fasi una birra.</summary>**Legale.** È ovvio che i due giocatori avrebbero comunque pattato la partita, e lo split non è stato usato come leva per convincere l'altro a pattare.</details>
+
+### Caso 2
+
+Nella stessa situazione di prima, Davide e Mirko devono giocare e solo il vincitore si qualifica ai quarti di finale. Quando finisce il round, sono sull'1-1. Da una breve discussione sulle altre partite che intanto sono finite, è chiaro che il mazzo di Mirko veleggerà verso il Pro Tour, mentre Davide farebbe molta più fatica. Davide concede.
+<details><summary>Soluzione</summary>**Legale.** Ancora una volta, lo split non ha influito sulla decisione e non è stato offerto come contropartita per la concessione. Usare le informazioni acquisite sugli altri giocatori e i loro risultati è consentito - non lo è, invece, giocare lentamente o rimanere al tavolo senza firmare l'entry slip per aspettare che le altre partite finiscano.</details>
