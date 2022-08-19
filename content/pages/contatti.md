@@ -1,17 +1,17 @@
 ---
 title: Contatti
 createdAt: 2022-06-22T22:57:00.504Z
-updatedAt: 2022-06-22T22:57:00.504Z
+updatedAt: 2022-08-19T13:29:32.454Z
 ---
 Entra in contatto con la community arbitrale italiana.
 
-## Dubbi su regole o policy?
+## Social!
 
-[IMJ4U](https://www.facebook.com/Imj4You) è la pagina di Facebook dedicata a giocatori, aspiranti e arbitri, dove trovate informazioni sui tornei, regole, discussioni su Magic.
+Ci trovi su [Facebook](https://www.facebook.com/ItalianMagicJudges) e su [Twitter](https://twitter.com/mtg_imj), canali dedicati a giocatori, arbitri e aspiranti tali, dove trovate informazioni sui tornei, regole, discussioni su Magic.
 
 ## Hai bisogno di un arbitro per il tuo torneo?
 
-A breve sarà disponibile un modulo di contatto per richiedere un contatto da un arbitro del livello appropriato alle tue necessità.
+A breve sarà disponibile un modulo di contatto per richiedere un contatto da un arbitro del livello appropriato alle tue necessità. Nel frattempo puoi scriverci sui canali social.
 
 ## Vuoi diventare arbitro?
 
