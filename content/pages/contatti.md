@@ -1,7 +1,7 @@
 ---
 title: Contatti
 createdAt: 2022-06-22T22:57:00.504Z
-updatedAt: 2022-06-22T22:57:00.504Z
+updatedAt: 2022-08-19T13:29:32.454Z
 ---
 Entra in contatto con la community arbitrale italiana.
 
