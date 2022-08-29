@@ -7,6 +7,7 @@ import BaseLayout from '../components/Layout/BaseLayout';
 
 import '../styles/globals.css';
 import Head from 'next/head';
+import Script from 'next/script';
 
 type NextPageWithLayout = NextPage & {
   getLayout?: (page: ReactElement) => ReactNode;
@@ -104,6 +105,19 @@ function MyApp({Component, pageProps}: AppPropsWithLayout) {
       {getLayout(<Component {...pageProps} />)}
       {/* @ts-expect-error} */}
       <ReactTooltip />
+
+      <Script
+        src="https://www.googletagmanager.com/gtag/js?id=G-GMSWB08M7J"
+        strategy="afterInteractive"
+      />
+      <Script id="google-analytics" strategy="afterInteractive">
+        {`
+          window.dataLayer = window.dataLayer || [];
+          function gtag(){window.dataLayer.push(arguments);}
+          gtag('js', new Date());
+          gtag('config', 'G-GMSWB08M7J', {'anonymize_ip': true});
+        `}
+      </Script>
     </>
   );
 }
