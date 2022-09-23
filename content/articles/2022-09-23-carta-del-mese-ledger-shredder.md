@@ -33,17 +33,17 @@ Come per tutte le innescate, distruggere Shredder quando l’abilità è già an
 
 Quando la innescata risolve, pescare, scartare, e mettere un eventuale segnalino +1/+1 avvengono come un tutt’uno, senza che i giocatori ricevano priorità tra le varie azioni e possano rispondere.
 
->"Abilità di Shredder in pila"\
->"In risposta Bolt su Shredder"\
->"OK!"
+> "Abilità di Shredder in pila"\
+> "In risposta Bolt su Shredder"\
+> "OK!"
 
 Il giocatore farà comunque “pesco e scarto”.
 
 
->"Abilità di Shredder in pila"\
->"Ok"\
->"Pesco, scarto spell, metto il segnalino +1/+1"\
->"Bolt su Shredder prima che prenda il segnalino"
+> "Abilità di Shredder in pila"\
+> "Ok"\
+> "Pesco, scarto spell, metto il segnalino +1/+1"\
+> "Bolt su Shredder prima che prenda il segnalino"
 
 **NO!** Non abbiamo priorità per lanciare il Bolt.
 
