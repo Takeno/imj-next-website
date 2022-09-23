@@ -19,7 +19,7 @@ La seconda abilità di Shredder è un’innescata che va in pila quando un gioca
 ## 1) Solo la seconda!
 
 La magia deve essere la seconda del turno, non la seconda dopo che è entrato Shredder. Shredder deve essere in campo quando viene lanciata la seconda magia, ma “conta” anche le magie lanciate prima che lui entri in campo (però non se stesso se è lo Shredder la seconda magia lanciata, visto che la lanciamo quando non è ancora in campo).
-Una giocata comune è Ledger Shredder (prima magia del turno), <Card>Mishra’s Bauble</Card> (seconda magia del turno), l’abilità si innesca.
+Una giocata comune è Ledger Shredder (prima magia del turno), <Card>Mishra's Bauble</Card> (seconda magia del turno), l’abilità si innesca.
 
 ## 2) Solo una volta!
 
