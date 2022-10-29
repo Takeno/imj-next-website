@@ -97,7 +97,7 @@ Un altro caso che vale la pena citare è il seguente:
  
 **AP controlla Greasefang.**
 AP:“Combat”.\
-NAP:”sacrifico <Card>Tormod’s Crypt</Card>, ti esilio il cimitero”\
+NAP:”sacrifico <Card>Tormod's Crypt</Card>, ti esilio il cimitero”\
 Siamo in BoC.
 
 La shortcut ci riporta in main phase solo quando NAP interviene in modo tale che l’abilità non si inneschi affatto, come nell’esempio precedente in cui viene giocata rimozione sul topo. Nel caso di <Card>Tormod's Crypt</Card>, l’abilità di Greasefang si innesca senza interferenze; in risoluzione non farà niente per assenza di bersagli, ma questo non è rilevante.
