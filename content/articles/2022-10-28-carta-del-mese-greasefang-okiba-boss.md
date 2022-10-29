@@ -16,7 +16,7 @@ Sicuramente qualcuno tra i lettori si ricorderà di Turbo, Pistone e Sterzo, i t
 Greasefang è l’ultimo ritrovato in fatto di mazzi Reanimator. Il gioco è semplice: si butta una creatura grossa e cattiva nel cimitero, la si rianima barando sul costo di mana -> PROFIT!
 
 Greasefang in questo senso è fantastico. Nel turno in cui entra in campo: 1) rianima un veicolo 2) gli dà Haste 3) può manovrare il veicolo rianimato.
-Certo, il veicolo ci tornerà in mano a fine turno, ma se si tratta di <Card>Parhelion II</Card> o di <Card>Esika’s Chariot</Card>, nella maggior parte dei casi, la partita è bella che vinta.
+Certo, il veicolo ci tornerà in mano a fine turno, ma se si tratta di <Card>Parhelion II</Card> o di <Card>Esika's Chariot</Card>, nella maggior parte dei casi, la partita è bella che vinta.
 
 Greasefang si gioca con successo sia in Pioneer che in Explorer. Se anche l’effetto della sua abilità può risultarci chiaro (recupera dallo sfasciacarrozze un mezzo pesante, fallo schiantare nelle fila nemiche e poi rimettilo nella rimessa alla fine del turno) il come e il quando questa abilità si innesca possono invece confondere: vediamo in dettaglio.
 
@@ -100,7 +100,7 @@ AP:“Combat”.\
 NAP:”sacrifico <Card>Tormod’s Crypt</Card>, ti esilio il cimitero”\
 Siamo in BoC.
 
-La shortcut ci riporta in main phase solo quando NAP interviene in modo tale che l’abilità non si inneschi affatto, come nell’esempio precedente in cui viene giocata rimozione sul topo. Nel caso di <Card>Tormod’s Crypt</Card>, l’abilità di Greasefang si innesca senza interferenze; in risoluzione non farà niente per assenza di bersagli, ma questo non è rilevante.
+La shortcut ci riporta in main phase solo quando NAP interviene in modo tale che l’abilità non si inneschi affatto, come nell’esempio precedente in cui viene giocata rimozione sul topo. Nel caso di <Card>Tormod's Crypt</Card>, l’abilità di Greasefang si innesca senza interferenze; in risoluzione non farà niente per assenza di bersagli, ma questo non è rilevante.
 
 ## Mezzi rapidi!
 
