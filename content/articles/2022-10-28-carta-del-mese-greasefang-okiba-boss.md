@@ -47,7 +47,7 @@ AP sta attaccando, è troppo tardi per lanciare magie sorcery-speed.
 AP:“Combat”.\
 NAP gioca rimozione su Greasefang.\
 NAP ha giocato rimozione in main phase, in modo da non far andare in pila l’ abilità BoC di Greasefang.\
-AP è in main phase, può lanciare magie sorcery-speed prima di attaccare - ad esempio, può giocare un secondo Greasefang, o può usare un <Card>Can’t Stay Away</Card> per rianimare il Greasefang appena morto.
+AP è in main phase, può lanciare magie sorcery-speed prima di attaccare - ad esempio, può giocare un secondo Greasefang, o può usare un <Card>Can't Stay Away</Card> per rianimare il Greasefang appena morto.
  
 Quindi non c’è alcun modo di distruggere Greasefang senza tornare alla main phase? 
 Sì, un modo c’è, ed è essere più espliciti possibile.
