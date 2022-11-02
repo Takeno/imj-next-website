@@ -7,7 +7,7 @@ Entra in contatto con la community arbitrale italiana.
 
 ## Social!
 
-Ci trovi su [Facebook](https://www.facebook.com/ItalianMagicJudges) e su [Twitter](https://twitter.com/mtg_imj), canali dedicati a giocatori, arbitri e aspiranti tali, dove trovate informazioni sui tornei, regole, discussioni su Magic.
+Ci trovi su [Facebook](https://www.facebook.com/Imj4You) e su [Twitter](https://twitter.com/mtg_imj), canali dedicati a giocatori, arbitri e aspiranti tali, dove trovate informazioni sui tornei, regole, discussioni su Magic.
 
 ## Hai bisogno di un arbitro per il tuo torneo?
 
@@ -27,4 +27,5 @@ Se hai riscontrato un errore sul sito, in un articolo o semplicemente vuoi propo
 * Salvatore La Terra - Responsabile Blast From The Past
 * Walter Zarà - Revisore
 * Jacopo Strati - Revisore
+* Eleonora Siorpaes - Revisore
 * Francesco Scialpi - Responsabile CdM
