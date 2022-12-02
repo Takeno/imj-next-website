@@ -2,7 +2,7 @@
 title: Report Magic 30 Vegas
 createdAt: 2022-12-02T08:35:43.207Z
 updatedAt: 2022-12-02T12:33:00.285Z
-author: George
+author: gavrilita
 category: report-torneo
 abstract: Un torneo storico a migliaia di chilometri da qua. Cosa possiamo
   imparare da chi lo ha vissuto?
