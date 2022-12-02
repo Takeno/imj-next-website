@@ -4,6 +4,7 @@ const labels: Record<string, string> = {
 
   aru: 'Aruna Prem Bianzino',
   'nonno-scialpi': 'Francesco Scialpi',
+  'gavrilita': 'George Gavrilita',
 };
 
 export const labelFor = (str: string) => labels[str] || str;
