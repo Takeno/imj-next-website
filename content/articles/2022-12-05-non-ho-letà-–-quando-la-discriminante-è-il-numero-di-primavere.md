@@ -18,7 +18,7 @@ Probabilmente, non si pensa che l’età possa essere motivo di discriminazione.
 Nella nostra veste di arbitri dobbiamo garantire una corretta e divertente esperienza di gioco a tutti i giocatori, a prescindere dall’anno di nascita;  dobbiamo tener presente che a seconda dell’età ci potrebbero essere diverse esigenze, a cui dobbiamo essere pronti a far fronte.
 
 
-> ***"Che scocciatura, una vita per fare un turno"***
+> ***Che scocciatura, una vita per fare un turno***
 
 Ho sentito spesso una frase come questa pronunciata da un giocatore abituale (20 – 25 anni) accomodandosi a un tavolo e trovandosi di fronte un bambino/a tra gli 8 e i 12 anni.
 I bambini o gli adolescenti sono a volte considerati una scocciatura dai giocatori più esperti, che non vogliono rischiare una patta ad un torneo per non rovinarsi il punteggio o il rating; purtroppo a volte non hanno pazienza, incitano il giovane a giocare più velocemente dicendo “eh dai questa carta fa questo!”, oppure, meno spesso, pensano che l’inesperienza del giovane avversario possa farli vincere più facilmente, essendo convinti di trovarsi di fronte a sprovveduti sempre e comunque.
@@ -32,7 +32,7 @@ Se il bambino/adolescente è un giocatore inesperto e magari si trova al suo pri
 
 Ricordo in particolare un undicenne a un Pptq; il giocatore contro cui si scontrava  al primo turno di svizzera era convinto che fosse per il giovane il suo primo torneo competitive, e di conseguenza giocò molto rilassato, per perdere poi 2-1: in realtà il ragazzo accompagnava il padre ogni settimana in giro per la regione a giocare, di conseguenza era già un giocatore abbastanza esperto a dispetto della sua età. Inutile dire che questa situazione provocò grande ilarità tra gli amici del giocatore perdente, difeso poi dallo stesso giovane che li sfidò dicendo che anche loro avrebbero perso contro di lui, perchè avrebbero fatto lo stesso errore dell’amico, sottovalutandolo.
 
-> ***"Lo saprà che non esiste più il mana burn?"***
+> ***Lo saprà che non esiste più il mana burn?***
 
 Bei tempi quando si attingeva mana “gratis”, perdendo punti vita e ci si accingeva a fare lo scambio con Mirror Universe…
 Di fronte al giocatore storico (mediamente over 40-45), possiamo trovarci due tipi di reazioni nell’immaginario del giocatore di Magic:
