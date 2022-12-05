@@ -2,7 +2,7 @@
 title: NON HO L'ETÀ – Quando la discriminante è il numero di primavere
 createdAt: 2022-12-05T14:50:05.164Z
 updatedAt: 2022-12-05T14:50:05.173Z
-author: aru
+author: celidonio
 category: report-torneo
 abstract: Ci sono giocatori più vecchi di banding e altri più giovani di Jace.
   Come dobbiamo comportarci in questi casi?
