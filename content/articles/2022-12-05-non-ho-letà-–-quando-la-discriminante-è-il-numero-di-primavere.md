@@ -9,6 +9,10 @@ abstract: Ci sono giocatori più vecchi di banding e altri più giovani di Jace.
 ---
 Salve a tutti, sono Manuela Celidonio, non più freschissima, ma sempre entusiasta L1, e vorrei portare alla vostra attenzione un aspetto non proprio trascurabile dei nostri amatissimi giocatori: l’età.
 
+
+
+![Dana Fischer](/uploads/dana_fischer_playing_at_grand_prix_los_angeles.jpg)
+
 Ho iniziato a giocare a Magic nel 1995, quando avevo 19 anni; da allora non ho mai smesso:  nel 2012 ho trasformato la mia passione in un lavoro aprendo un negozio;  a marzo 2018 ho ottenuto la certificazione da L1 all’età di 42 anni.
 
 Come si suol dire, non è mai troppo tardi... In effetti no, non lo è.
@@ -16,7 +20,6 @@ Come si suol dire, non è mai troppo tardi... In effetti no, non lo è.
 Probabilmente, non si pensa che l’età possa essere motivo di discriminazione.
 
 Nella nostra veste di arbitri dobbiamo garantire una corretta e divertente esperienza di gioco a tutti i giocatori, a prescindere dall’anno di nascita;  dobbiamo tener presente che a seconda dell’età ci potrebbero essere diverse esigenze, a cui dobbiamo essere pronti a far fronte.
-
 
 > ***Che scocciatura, una vita per fare un turno***
 
@@ -36,10 +39,10 @@ Ricordo in particolare un undicenne a un Pptq; il giocatore contro cui si scontr
 
 Bei tempi quando si attingeva mana “gratis”, perdendo punti vita e ci si accingeva a fare lo scambio con Mirror Universe…
 Di fronte al giocatore storico (mediamente over 40-45), possiamo trovarci due tipi di reazioni nell’immaginario del giocatore di Magic:
- 
+
 1. Una sorta di “timore reverenziale” di fronte a una persona che conosce il gioco dai suoi albori, ne ha visto l’evoluzione, ne conosce tutti i segreti (anche di abilità ormai obsolete che non vengono più ristampate)
 2. Fastidio nel giocare con un giocatore “vecchia maniera” ancorato al passato, a stili di gioco non performanti, che trova difficoltoso adeguarsi a nuove meccaniche, che non vede di buon occhio i Planeswalker, i loro bizzarri emblemi, e che non capisce bene cosa ne debba fare delle energie.
- 
+
 Ora, avere il doppio degli anni di uno studente universitario non significa glorificare il passato, non adeguarsi ai cambiamenti di regole, all’ampliamento del gioco, e, soprattutto, non significa neanche essere più bravi dei più giovani: significa, semplicemente, che si gioca da più tempo, oppure, in alcuni casi, che si è iniziato a giocare più tardi rispetto ad altri.
 
 Anche in questa eventualità, per assicurarci  che la partita  si svolga in un clima  tranquillo e privo di tensioni, possiamo verificare che il giocatore più anziano sia effettivamente aggiornato sul regolamento (in modo da non essere, intenzionalmente o meno, messo in difficoltà dal suo avversario).
@@ -52,4 +55,4 @@ Ovviamente questo non vale solo per i giocatori, ma anche per noi arbitri: non f
 
 Quando arbitriamo i giocatori sono tutti uguali per quanto riguarda diritti, doveri e livello di assistenza di cui potrebbero avere bisogno; sono, invece, tutti diversi nel loro relazionarsi agli altri, nel senso che danno al gioco, nelle problematiche che potrebbero avere e nell’arricchimento o meno che possono dare a tutti gli altri.
 
-_Revisione a cura di Walter Zarà e Eleonora Siorpaes_
+*Revisione a cura di Walter Zarà e Eleonora Siorpaes*
