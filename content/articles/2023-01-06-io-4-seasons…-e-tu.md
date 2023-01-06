@@ -114,5 +114,7 @@ Siamo arrivati alla fine e, sebbene immagino che non siate riusciti ad indovinar
 
 Per tutto il resto… ci vediamo al prossimo 4 Seasons!!!
 
-Un abbraccio, 
+Un abbraccio, \
 Martina
+
+*Revisione a cura di Eleonora Siorpaes*
