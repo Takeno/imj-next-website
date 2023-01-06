@@ -2,7 +2,7 @@
 title: IO 4  SEASONS…. E TU?
 createdAt: 2023-01-06T18:13:11.696Z
 updatedAt: 2023-01-06T18:13:11.707Z
-author: aru
+author: martina-aliverti
 category: report-torneo
 abstract: "Sei interviste doppie per raccontare il 4Seasons dei record: 1670
   giocatori in tre giorni."
