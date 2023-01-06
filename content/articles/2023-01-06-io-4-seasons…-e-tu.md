@@ -7,7 +7,7 @@ category: report-torneo
 abstract: "Sei interviste doppie per raccontare il 4Seasons dei record: 1670
   giocatori in tre giorni."
 ---
-2 - 3 - 4 Dicembre 2022. 1670 giocatori in tre giorni. 26 round di svizzera e 33 fantastici arbitri. Dove ci troviamo? A Bologna, al Circolo Benassi per il 4 Seasons Autumn 2022!
+2-3-4 Dicembre 2022. 1670 giocatori in tre giorni. 26 round di svizzera e 33 fantastici arbitri. Dove ci troviamo? A Bologna, al Circolo Benassi per il 4 Seasons Autumn 2022!
 
 ![Staff del 4Seasons Autumn 2022](/uploads/4seasons-winter22-staff.jpg)
 
