@@ -1,5 +1,5 @@
 ---
-title: IO 4  SEASONS…. E TU?
+title: Io 4Seasons… e tu?
 createdAt: 2023-01-06T18:13:11.696Z
 updatedAt: 2023-01-06T18:13:11.707Z
 author: martina-aliverti
@@ -103,8 +103,7 @@ E ultimi, ma non per importanza, vediamo cosa hanno provato due giocatori, che s
 
 ### Qual è la prima cosa che pensi varcate le porte?
 
-> **F**: _"Ca**o c'è ogni volta più gente, speriamo che almeno il 50% abbia fatto la doccia nell'ultimo mese".
-_
+> **F**: _"Ca**o c'è ogni volta più gente, speriamo che almeno il 50% abbia fatto la doccia nell'ultimo mese"._
 
 > **A**: _"Meno male che anche stavolta sono arrivato prima degli organizzatori, così ho tutto il tempo del mondo per comprare carte"_
 
