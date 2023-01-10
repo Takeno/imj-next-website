@@ -101,9 +101,7 @@ function MyApp({Component, pageProps}: AppPropsWithLayout) {
         />
         <meta name="theme-color" content="#ffffff" />
       </Head>
-      {/* @ts-expect-error} */}
       {getLayout(<Component {...pageProps} />)}
-      {/* @ts-expect-error} */}
       <ReactTooltip />
 
       <Script
