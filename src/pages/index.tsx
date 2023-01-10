@@ -143,6 +143,19 @@ export default function Home() {
                     per restare al passo con i tempi.
                   </p>
                 </div>
+                <div className="justify-center">
+                  <Link href="/cranial-insertion">
+                    <a>
+                      <h2 className="text-xl font-bold py-4 hover:underline text-orange-500">
+                        Cranial Insertion
+                      </h2>
+                    </a>
+                  </Link>
+                  <p className="text-md">
+                    Rubrica internazionale per rispondere alle domande dei
+                    giocatori.
+                  </p>
+                </div>
               </div>
             </div>
           </section>
