@@ -3,6 +3,8 @@ title: Carta del Mese - Arcane Proxy
 createdAt: 2022-06-13T21:17:30.422Z
 updatedAt: 2022-06-13T21:17:30.439Z
 ---
+Ricordando una delle carte più potenti dell'ultimo decennio e interagendo con magie a zero mana, Arcane Proxy ha il potenziale per performare in formati come Pioneer e Modern? Scopriamo insieme a Francesco Scialpi come funziona questo nuovo “prototipo”!
+
 ![L’unica “proxy” che nessun arbitro vi potrà contestare…](/uploads/bro-319-arcane-proxy.jpg)
 
 Grazie alla sua versatilità come drop a due che arriva sempre a braccetto con qualche magia dal cimitero, [Snapcaster Mage](https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=274129) è ad oggi una delle ristampe più agognate dai giocatori di Pioneer, Explorer e Historic.
