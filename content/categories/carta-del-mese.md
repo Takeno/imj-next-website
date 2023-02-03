@@ -7,7 +7,7 @@ Ricordando una delle carte più potenti dell'ultimo decennio e interagendo con m
 
 ![L’unica “proxy” che nessun arbitro vi potrà contestare…](/uploads/bro-319-arcane-proxy.jpg)
 
-Grazie alla sua versatilità come drop a due che arriva sempre a braccetto con qualche magia dal cimitero, [Snapcaster Mage. ](https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=274129)<Card>Snapcaster Mage</Card> è ad oggi una delle ristampe più agognate dai giocatori di Pioneer, Explorer e Historic.
+Grazie alla sua versatilità come drop a due che arriva sempre a braccetto con qualche magia dal cimitero, [Snapcaster Mage. ](https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=274129)<Card> Snapcaster Mage </Card> è ad oggi una delle ristampe più agognate dai giocatori di Pioneer, Explorer e Historic.
 
 In Modern, la carta è un punto fermo del formato da più di un decennio, con giocate classiche come "Bolt-Snap-Bolt".
 
