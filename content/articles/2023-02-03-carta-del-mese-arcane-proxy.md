@@ -57,32 +57,32 @@ Va considerata la forza effettiva di Arcane Proxy quando entra in campo: questo 
 
 La carta bersagliata deve avere mana value pari o inferiore alla forza di Arcane Proxy sia quando l’abilità va in pila, sia quando questa risolve. Vediamo alcuni scenari:
 
-* Abbiamo Time Walk nel cimitero. Lanciamo Arcane Proxy prototipato, e bersagliamo Time Walk. L’avversario risponde attivando Tormod’s Crypt.
+* Abbiamo <Card> Time Walk </Card>  nel cimitero. Lanciamo Arcane Proxy prototipato, e bersagliamo Time Walk. L’avversario risponde attivando <Card> Tormod’s Crypt </Card>.
 
 Semplicemente, l’abilità ha perso il bersaglio, e non farà nulla.
 
-* Abbiamo Time Warp nel cimitero. Lanciamo Arcane Proxy prototipato, e lo “pompiamo” appena possibile con Giant Growth.
+* Abbiamo <Card> Time Warp </Card> nel cimitero. Lanciamo Arcane Proxy prototipato, e lo “pompiamo” appena possibile con <Card> Giant Growth </Card>.
 
 Questo trucco non funziona. Quando l’abilità ETB è andata in pila, la forza di Proxy era 2, e quindi Time Warp non era un bersaglio valido.
 
-* Abbiamo Time Walk nel cimitero. Lanciamo Arcane Proxy prototipato, bersagliamo Time Walk. L’avversario distrugge Proxy con Lightning Bolt.
+* Abbiamo Time Walk nel cimitero. Lanciamo Arcane Proxy prototipato, bersagliamo Time Walk. L’avversario distrugge Proxy con <Card> Lightning Bolt </Card>.
 
 Quando l’abilità risolve, Arcane Proxy non è più in campo. Il gioco usa la Last Known Information, ossia “si ricorda” che Proxy, prima di morire, era in campo con forza 2. L’abilità risolve, potremo lanciare la nostra copia di Time Walk.
 
-* Abbiamo Time Walk nel cimitero. Lanciamo Arcane Proxy prototipato, bersagliamo Time Walk. L’avversario distrugge Proxy con Disfigure.
+* Abbiamo Time Walk nel cimitero. Lanciamo Arcane Proxy prototipato, bersagliamo Time Walk. L’avversario distrugge Proxy con <Card> Disfigure</Card>.
 
 Quando l’abilità risolve, Arcane Proxy non è più in campo. Il gioco usa la Last Known Information, ossia “si ricorda” che Proxy, prima di morire, era in campo con forza 0. Time Walk non è più un bersaglio legale! L’abilità non risolve, Time Walk rimane nel cimitero, non ne facciamo nessuna copia.
 
 Con riferimento alle carte doppia faccia, esse sono bersagli validi se la “front face” è un istantaneo o stregoneria, e la copia ha solo le caratteristiche della “front face”, non ha un dorso.
 
-* Valakut Awakening è un bersaglio valido. La copia avrà solo la faccia Valakut Awakening, non avrà l’altra faccia Valakut Stoneforge
+* <Card> Valakut Awakening </Card> è un bersaglio valido. La copia avrà solo la faccia Valakut Awakening, non avrà l’altra faccia <Card> Valakut Stoneforge </Card>.
 
 Il mana value di una split card nel cimitero è la somma dei mana value delle due metà. Se risolviamo un Arcane Proxy prototipato, quindi forza 2:
 
 * Wax/Wane è un bersaglio valido. Potremo lanciare solo una delle due metà.
 * Fire/Ice non è un bersaglio valido.
 
-Se risolviamo un Arcane Proxy non prototipato, quindi forza 4, Wear/Tear è un bersaglio valido, ma non potremo usufruire di Fuse. Fuse funziona solo quando lanciamo una magia dalla nostra mano.
+Se risolviamo un Arcane Proxy non prototipato, quindi forza 4,  <Card> Wear/Tear </Card> è un bersaglio valido, ma non potremo usufruire di Fuse. Fuse funziona solo quando lanciamo una magia dalla nostra mano.
 
 Ora che sappiamo come funzionano queste macchine da guerra, non ci resta che metterle in funzione nella battaglia tra Mishra e Urza, sta a voi ora scegliere con quale artefice schierarvi!
 
