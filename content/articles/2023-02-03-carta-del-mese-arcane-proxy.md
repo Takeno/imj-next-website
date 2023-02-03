@@ -11,11 +11,11 @@ Ricordando una delle carte più potenti dell'ultimo decennio e interagendo con m
 
 ![](/uploads/bro-319-arcane-proxy.jpg)
 
-Grazie alla sua versatilità come drop a due che arriva sempre a braccetto con qualche magia dal cimitero, [](https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=274129)<Card> Snapcaster Mage </Card> è ad oggi una delle ristampe più agognate dai giocatori di Pioneer, Explorer e Historic.
+Grazie alla sua versatilità come drop a due che arriva sempre a braccetto con qualche magia dal cimitero, [](https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=274129)<Card>Snapcaster Mage</Card> è ad oggi una delle ristampe più agognate dai giocatori di Pioneer, Explorer e Historic.
 
 In Modern, la carta è un punto fermo del formato da più di un decennio, con giocate classiche come "Bolt-Snap-Bolt".
 
-Tuttavia, Wizards non ha ancora esaudito il desiderio che il maghetto arrivi in ​​formati più recenti. Invece, cerca di darci altre opzioni con effetti simili e quando si tratta di recuperare una carta dal cimitero, tutti sappiamo che se ne inventa ogni volta una [nuova](<https://old.italianmagicjudges.net/index.php?p=articoli&id=2728)>).
+Tuttavia, Wizards non ha ancora esaudito il desiderio che il maghetto arrivi in ​​formati più recenti. Invece, cerca di darci altre opzioni con effetti simili e quando si tratta di recuperare una carta dal cimitero, tutti sappiamo che se ne inventa ogni volta una [nuova.](https://old.italianmagicjudges.net/index.php?p=articoli&id=2728)
 
 Il fine lodevole di introdurre opzioni diverse dalle precedenti è quello di evitare abusi e magheggi, però, stiamo attenti che aumentando le opzioni aumenta anche la confusione!
 
@@ -27,10 +27,10 @@ Arcane Proxy fa parte di un ciclo di carte con l’abilità Prototype introdotta
 
 Arcane Proxy può essere lanciato per {7} e sarà un 4/3, oppure per 1UU e sarà un 2/1.
 
-Se lanciamo Arcane Proxy per 1UU:
+Se lanciamo Arcane Proxy per {1}{U}{U}:
 
-* sulla pila, sarà una magia blu con costo di mana 1UU;
-* in campo, sarà un permanente blu con costo di mana 1UU.
+* sulla pila, sarà una magia blu con costo di mana {1}{U}{U};
+* in campo, sarà un permanente blu con costo di mana {1}{U}{U}.
 
 Quindi:
 
@@ -40,14 +40,14 @@ Quindi:
 * lo possiamo distruggere con[](https://gatherer.wizards.com/pages/card/Details.aspx?multiverseid=50139) <Card>Engineered Explosives </Card> da tre;
 * lo possiamo distruggere con [](https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=512820)<Card>Abrupt Decay</Card>.
 
-Quando non è né in pila, né in campo, Arcane Proxy è sempre una carta artefatto incolore che costa 7.
+Quando non è né in pila, né in campo, Arcane Proxy è sempre una carta artefatto incolore che costa {7}.
 
 L’avversario non può farcelo scartare con Inquisition of Kozilek, non possiamo metterlo in campo con Collected Company.
 
  Lanciare una magia per il costo di prototype non è un costo alternativo, ma piuttosto un costo di mana secondario che dà accesso ad un secondo set di caratteristiche.\
 La restrizione che ci consente di pagare un solo costo alternativo alla volta, quindi, non si applica. Ad esempio, lanciare una magia “senza pagare il costo di mana” è un costo alternativo; tuttavia, possiamo lanciare una magia con prototype senza pagare il costo di mana.
 
-* Aluren ci consente di lanciare Arcane Proxy con prototype (non senza prototype, perché la magia costerebbe 7)
+* Aluren ci consente di lanciare Arcane Proxy con prototype (non senza prototype, perché la magia costerebbe {7})
 
 # Abilità “Enter the Battlefield”
 
