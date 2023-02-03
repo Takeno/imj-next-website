@@ -25,7 +25,7 @@ Nello specifico, tutti quanti abbiamo visto Arcane Proxy e abbiamo subito pensat
 
 Arcane Proxy fa parte di un ciclo di carte con l’abilità Prototype introdotta in The Brothers' War, che consente di lanciare una “versione alternativa” di una carta per un costo di mana inferiore al normale. È caratteristico di artefatti e creature artefatto.
 
-Arcane Proxy può essere lanciato per {7} e sarà un 4/3, oppure per 1UU e sarà un 2/1.
+Arcane Proxy può essere lanciato per {7} e sarà un 4/3, oppure per{1}{U}{U} e sarà un 2/1.
 
 Se lanciamo Arcane Proxy per {1UU}:
 
