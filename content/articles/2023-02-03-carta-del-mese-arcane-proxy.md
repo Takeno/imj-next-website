@@ -11,7 +11,7 @@ Ricordando una delle carte più potenti dell'ultimo decennio e interagendo con m
 
 ![](/uploads/bro-319-arcane-proxy.jpg)
 
-Grazie alla sua versatilità come drop a due che arriva sempre a braccetto con qualche magia dal cimitero, [](https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=274129)<Card>Snapcaster Mage</Card> è ad oggi una delle ristampe più agognate dai giocatori di Pioneer, Explorer e Historic.
+Grazie alla sua versatilità come drop a due che arriva sempre a braccetto con qualche magia dal cimitero, <Card>Snapcaster Mage</Card> è ad oggi una delle ristampe più agognate dai giocatori di Pioneer, Explorer e Historic.
 
 In Modern, la carta è un punto fermo del formato da più di un decennio, con giocate classiche come "Bolt-Snap-Bolt".
 
@@ -35,16 +35,16 @@ Se lanciamo Arcane Proxy per {1}{U}{U}:
 Quindi:
 
 * con [](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=red%20elemental%20blast)<Card>Red Elemental Blast</Card> possiamo sia neutralizzare Arcane Proxy quando è in pila, sia distruggerlo quando è in campo;
-* se lanciamo [](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Double%20Major)<Card>Double Major</Card> su Arcane Proxy, anche la copia avrà le caratteristiche del prototipo;
-* lo possiamo neutralizzare con <Card>Chalice of the Void</Card>[ ](https://gatherer.wizards.com/pages/card/details.aspx?multiverseid=48326)da tre;
-* lo possiamo distruggere con[](https://gatherer.wizards.com/pages/card/Details.aspx?multiverseid=50139) <Card>Engineered Explosives </Card> da tre;
-* lo possiamo distruggere con [](https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=512820)<Card>Abrupt Decay</Card>.
+* se lanciamo <Card>Double Major</Card> su Arcane Proxy, anche la copia avrà le caratteristiche del prototipo;
+* lo possiamo neutralizzare con <Card>Chalice of the Void</Card> da tre;
+* lo possiamo distruggere con <Card>Engineered Explosives</Card> da tre;
+* lo possiamo distruggere con <Card>Abrupt Decay</Card>.
 
 Quando non è né in pila, né in campo, Arcane Proxy è sempre una carta artefatto incolore che costa {7}.
 
 L’avversario non può farcelo scartare con Inquisition of Kozilek, non possiamo metterlo in campo con Collected Company.
 
- Lanciare una magia per il costo di prototype non è un costo alternativo, ma piuttosto un costo di mana secondario che dà accesso ad un secondo set di caratteristiche.\
+Lanciare una magia per il costo di prototype non è un costo alternativo, ma piuttosto un costo di mana secondario che dà accesso ad un secondo set di caratteristiche.\
 La restrizione che ci consente di pagare un solo costo alternativo alla volta, quindi, non si applica. Ad esempio, lanciare una magia “senza pagare il costo di mana” è un costo alternativo; tuttavia, possiamo lanciare una magia con prototype senza pagare il costo di mana.
 
 * Aluren ci consente di lanciare Arcane Proxy con prototype (non senza prototype, perché la magia costerebbe {7})
@@ -57,32 +57,32 @@ Va considerata la forza effettiva di Arcane Proxy quando entra in campo: questo 
 
 La carta bersagliata deve avere mana value pari o inferiore alla forza di Arcane Proxy sia quando l’abilità va in pila, sia quando questa risolve. Vediamo alcuni scenari:
 
-* Abbiamo <Card> Time Walk </Card>  nel cimitero. Lanciamo Arcane Proxy prototipato, e bersagliamo Time Walk. L’avversario risponde attivando <Card> Tormod’s Crypt </Card>.
+* Abbiamo <Card> Time Walk </Card>  nel cimitero. Lanciamo Arcane Proxy prototipato, e bersagliamo Time Walk. L’avversario risponde attivando <Card>Tormod's Crypt</Card>.
 
 Semplicemente, l’abilità ha perso il bersaglio, e non farà nulla.
 
-* Abbiamo <Card> Time Warp </Card> nel cimitero. Lanciamo Arcane Proxy prototipato, e lo “pompiamo” appena possibile con <Card> Giant Growth </Card>.
+* Abbiamo <Card> Time Warp </Card> nel cimitero. Lanciamo Arcane Proxy prototipato, e lo “pompiamo” appena possibile con <Card>Giant Growth</Card>.
 
 Questo trucco non funziona. Quando l’abilità ETB è andata in pila, la forza di Proxy era 2, e quindi Time Warp non era un bersaglio valido.
 
-* Abbiamo Time Walk nel cimitero. Lanciamo Arcane Proxy prototipato, bersagliamo Time Walk. L’avversario distrugge Proxy con <Card> Lightning Bolt </Card>.
+* Abbiamo Time Walk nel cimitero. Lanciamo Arcane Proxy prototipato, bersagliamo Time Walk. L’avversario distrugge Proxy con <Card>Lightning Bolt</Card>.
 
 Quando l’abilità risolve, Arcane Proxy non è più in campo. Il gioco usa la Last Known Information, ossia “si ricorda” che Proxy, prima di morire, era in campo con forza 2. L’abilità risolve, potremo lanciare la nostra copia di Time Walk.
 
-* Abbiamo Time Walk nel cimitero. Lanciamo Arcane Proxy prototipato, bersagliamo Time Walk. L’avversario distrugge Proxy con <Card> Disfigure</Card>.
+* Abbiamo Time Walk nel cimitero. Lanciamo Arcane Proxy prototipato, bersagliamo Time Walk. L’avversario distrugge Proxy con <Card>Disfigure</Card>.
 
 Quando l’abilità risolve, Arcane Proxy non è più in campo. Il gioco usa la Last Known Information, ossia “si ricorda” che Proxy, prima di morire, era in campo con forza 0. Time Walk non è più un bersaglio legale! L’abilità non risolve, Time Walk rimane nel cimitero, non ne facciamo nessuna copia.
 
 Con riferimento alle carte doppia faccia, esse sono bersagli validi se la “front face” è un istantaneo o stregoneria, e la copia ha solo le caratteristiche della “front face”, non ha un dorso.
 
-* <Card> Valakut Awakening </Card> è un bersaglio valido. La copia avrà solo la faccia Valakut Awakening, non avrà l’altra faccia <Card> Valakut Stoneforge </Card>.
+* <Card> Valakut Awakening </Card> è un bersaglio valido. La copia avrà solo la faccia Valakut Awakening, non avrà l’altra faccia <Card>Valakut Stoneforge</Card>.
 
 Il mana value di una split card nel cimitero è la somma dei mana value delle due metà. Se risolviamo un Arcane Proxy prototipato, quindi forza 2:
 
 * Wax/Wane è un bersaglio valido. Potremo lanciare solo una delle due metà.
 * Fire/Ice non è un bersaglio valido.
 
-Se risolviamo un Arcane Proxy non prototipato, quindi forza 4,  <Card> Wear/Tear </Card> è un bersaglio valido, ma non potremo usufruire di Fuse. Fuse funziona solo quando lanciamo una magia dalla nostra mano.
+Se risolviamo un Arcane Proxy non prototipato, quindi forza 4,  <Card>Wear/Tear</Card> è un bersaglio valido, ma non potremo usufruire di Fuse. Fuse funziona solo quando lanciamo una magia dalla nostra mano.
 
 Ora che sappiamo come funzionano queste macchine da guerra, non ci resta che metterle in funzione nella battaglia tra Mishra e Urza, sta a voi ora scegliere con quale artefice schierarvi!
 
