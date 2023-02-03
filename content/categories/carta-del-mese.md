@@ -7,7 +7,7 @@ Ricordando una delle carte più potenti dell'ultimo decennio e interagendo con m
 
 ![L’unica “proxy” che nessun arbitro vi potrà contestare…](/uploads/bro-319-arcane-proxy.jpg)
 
-Grazie alla sua versatilità come drop a due che arriva sempre a braccetto con qualche magia dal cimitero, [Snapcaster Mage](https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=274129) è ad oggi una delle ristampe più agognate dai giocatori di Pioneer, Explorer e Historic.
+Grazie alla sua versatilità come drop a due che arriva sempre a braccetto con qualche magia dal cimitero, [Snapcaster Mage. ](https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=274129)<Card>Snapcaster Mage</Card> è ad oggi una delle ristampe più agognate dai giocatori di Pioneer, Explorer e Historic.
 
 In Modern, la carta è un punto fermo del formato da più di un decennio, con giocate classiche come "Bolt-Snap-Bolt".
 
@@ -81,7 +81,5 @@ Il mana value di una split card nel cimitero è la somma dei mana value delle du
 Se risolviamo un Arcane Proxy non prototipato, quindi forza 4, Wear/Tear è un bersaglio valido, ma non potremo usufruire di Fuse. Fuse funziona solo quando lanciamo una magia dalla nostra mano.
 
 Ora che sappiamo come funzionano queste macchine da guerra, non ci resta che metterle in funzione nella battaglia tra Mishra e Urza, sta a voi ora scegliere con quale artefice schierarvi!
-
-
 
 *Revisione a cura di Eleonora Siorpaes.*
