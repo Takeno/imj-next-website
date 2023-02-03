@@ -81,3 +81,7 @@ Il mana value di una split card nel cimitero è la somma dei mana value delle du
 Se risolviamo un Arcane Proxy non prototipato, quindi forza 4, Wear/Tear è un bersaglio valido, ma non potremo usufruire di Fuse. Fuse funziona solo quando lanciamo una magia dalla nostra mano.
 
 Ora che sappiamo come funzionano queste macchine da guerra, non ci resta che metterle in funzione nella battaglia tra Mishra e Urza, sta a voi ora scegliere con quale artefice schierarvi!
+
+
+
+*Revisione a cura di Eleonora Siorpaes.*
