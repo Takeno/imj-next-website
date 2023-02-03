@@ -57,11 +57,11 @@ Va considerata la forza effettiva di Arcane Proxy quando entra in campo: questo 
 
 La carta bersagliata deve avere mana value pari o inferiore alla forza di Arcane Proxy sia quando l’abilità va in pila, sia quando questa risolve. Vediamo alcuni scenari:
 
-* Abbiamo <Card> Time Walk </Card>  nel cimitero. Lanciamo Arcane Proxy prototipato, e bersagliamo Time Walk. L’avversario risponde attivando <Card>Tormod's Crypt</Card>.
+* Abbiamo <Card>Time Walk</Card>  nel cimitero. Lanciamo Arcane Proxy prototipato, e bersagliamo Time Walk. L’avversario risponde attivando <Card>Tormod's Crypt</Card>.
 
 Semplicemente, l’abilità ha perso il bersaglio, e non farà nulla.
 
-* Abbiamo <Card> Time Warp </Card> nel cimitero. Lanciamo Arcane Proxy prototipato, e lo “pompiamo” appena possibile con <Card>Giant Growth</Card>.
+* Abbiamo <Card>Time Warp</Card> nel cimitero. Lanciamo Arcane Proxy prototipato, e lo “pompiamo” appena possibile con <Card>Giant Growth</Card>.
 
 Questo trucco non funziona. Quando l’abilità ETB è andata in pila, la forza di Proxy era 2, e quindi Time Warp non era un bersaglio valido.
 
@@ -75,7 +75,7 @@ Quando l’abilità risolve, Arcane Proxy non è più in campo. Il gioco usa la 
 
 Con riferimento alle carte doppia faccia, esse sono bersagli validi se la “front face” è un istantaneo o stregoneria, e la copia ha solo le caratteristiche della “front face”, non ha un dorso.
 
-* <Card> Valakut Awakening </Card> è un bersaglio valido. La copia avrà solo la faccia Valakut Awakening, non avrà l’altra faccia <Card>Valakut Stoneforge</Card>.
+* <Card>Valakut Awakening</Card> è un bersaglio valido. La copia avrà solo la faccia Valakut Awakening, non avrà l’altra faccia <Card>Valakut Stoneforge</Card>.
 
 Il mana value di una split card nel cimitero è la somma dei mana value delle due metà. Se risolviamo un Arcane Proxy prototipato, quindi forza 2:
 
