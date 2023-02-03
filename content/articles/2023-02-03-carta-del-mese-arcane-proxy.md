@@ -27,7 +27,7 @@ Arcane Proxy fa parte di un ciclo di carte con l’abilità Prototype introdotta
 
 Arcane Proxy può essere lanciato per {7} e sarà un 4/3, oppure per 1UU e sarà un 2/1.
 
-Se lanciamo Arcane Proxy per {1} {U} {U}:
+Se lanciamo Arcane Proxy per {1UU}:
 
 * sulla pila, sarà una magia blu con costo di mana {1}{U}{U};
 * in campo, sarà un permanente blu con costo di mana {1}{U}{U}.
