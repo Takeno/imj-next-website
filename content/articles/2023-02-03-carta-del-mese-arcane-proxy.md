@@ -82,7 +82,7 @@ Il mana value di una split card nel cimitero è la somma dei mana value delle du
 * Wax/Wane è un bersaglio valido. Potremo lanciare solo una delle due metà.
 * Fire/Ice non è un bersaglio valido.
 
-Se risolviamo un Arcane Proxy non prototipato, quindi forza 4,  <Card>Wear/Tear</Card> è un bersaglio valido, ma non potremo usufruire di Fuse. Fuse funziona solo quando lanciamo una magia dalla nostra mano.
+Se risolviamo un Arcane Proxy non prototipato, quindi forza 4,  <Card>Wear // Tear</Card> è un bersaglio valido, ma non potremo usufruire di Fuse. Fuse funziona solo quando lanciamo una magia dalla nostra mano.
 
 Ora che sappiamo come funzionano queste macchine da guerra, non ci resta che metterle in funzione nella battaglia tra Mishra e Urza, sta a voi ora scegliere con quale artefice schierarvi!
 
