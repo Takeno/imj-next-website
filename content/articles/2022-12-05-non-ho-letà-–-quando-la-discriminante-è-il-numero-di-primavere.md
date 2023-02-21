@@ -7,7 +7,7 @@ category: report-torneo
 abstract: Ci sono giocatori più vecchi di banding e altri più giovani di Jace.
   Come dobbiamo comportarci in questi casi?
 ---
-Salve a tutti, sono Manuela Celidonio, non più freschissima, ma sempre entusiasta L1, e vorrei portare alla vostra attenzione un aspetto non proprio trascurabile dei nostri amatissimi giocatori: l’età.
+Salve a tutti, sono Manuela Celidonio, non più freschissima, ma sempre entusiasta L2, e vorrei portare alla vostra attenzione un aspetto non proprio trascurabile dei nostri amatissimi giocatori: l’età.
 
 
 
