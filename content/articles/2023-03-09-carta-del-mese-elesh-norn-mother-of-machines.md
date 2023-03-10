@@ -64,7 +64,9 @@ Alcune carte hanno un’abilità “enter the battlefield” che esilia una cart
 * Se la seconda abilità fa riferimento a una caratteristica della “carta esiliata”, e usa quella caratteristica per calcolare un valore, allora il valore sarà la somma dei valori derivanti da ogni singola carta. Esempio: <Card>Prototype Portal</Card> entra in campo, ed esilia due carte artefatto dalla nostra mano. Potremo tappare il Portal per generare due token copia, uno per ciascun artefatto. Per calcolare la X dovremo fare la somma dei mana value delle due carte. 
 
 
-
 In conclusione, Elesh Norn, Mother of Machines è una carta incredibilmente potente che reintroduce nel gioco un cattivo iconico nella storia di Magic valorizzandone la *lore*: le sue abilità esprimono in modo efficace come Elesh Norn cerchi di far crescere l'influenza di Phyrexia mentre al contempo blocchi ogni speranza di resistenza per i propri nemici. 
 
 Yawgmoth potrà anche aver fondato Phyrexia come Padre delle Macchine, ma è Elesh Norn ora a governare Nuova Phyrexia ed è sotto la sua guida che la marcia sul Multiverso avanza minacciosa.
+
+
+_Revisione a cura di Eleonora Siorpaes._
