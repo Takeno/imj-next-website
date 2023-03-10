@@ -23,7 +23,7 @@ La seconda abilità di Elesh Norn fa innescare una seconda volta le abilità “
 * Se un’ abilità recita “mentre questo permanente entra in campo…”, si tratta di un'abilità statica. Elesh Norn non interagisce con l’ingresso in campo di <Card>Meddling Mage</Card>.
 * Cascade si innesca quando lanciamo la magia con cascade, non quando il permanente entra in campo. Spiacente, <Card>Bloodbraid Elf</Card>.
 
-Elesh Norn interagisce con le abilità che si innescano quando un permanente entra in campo: quindi, non solo per le abilità del tipo “when this enters the battlefield” (es. <Card>Flametongue Kavu</Card>), ma anche per quelle “when <another permanent of some kind> enters the battlefield”. Nel caso delle abilità del secondo tipo, un permanente che entra in campo sotto il controllo dell’avversario potrebbe innescare una abilità controllata da noi.
+Elesh Norn interagisce con le abilità che si innescano quando un permanente entra in campo: quindi, non solo per le abilità del tipo “when this enters the battlefield” (es. <Card>Flametongue Kavu</Card>), ma anche per quelle “when \<another permanent of some kind\> enters the battlefield”. Nel caso delle abilità del secondo tipo, un permanente che entra in campo sotto il controllo dell’avversario potrebbe innescare una abilità controllata da noi.
 
 * Se controlliamo Elesh Norn e <Card>Soul Warden</Card>, e l’avversario risolve una creatura, l’abilità del nostro Soul Warden si innesca due volte.
 * Se noi controlliamo Elesh Norn, il nostro avversario controlla <Card>Soul Warden</Card>, e noi risolviamo una creatura, l’abilità di <Card>Soul Warden</Card> non si innesca.
