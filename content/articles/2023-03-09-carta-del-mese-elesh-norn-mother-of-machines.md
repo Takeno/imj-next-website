@@ -15,7 +15,7 @@ Fino a tre o quattro anni fa, era opinione diffusa che il bianco fosse il colore
 
 A qualcuno alla Hasbro devono aver fischiato le orecchie, perché hanno iniziato a stampare una quantità di carte bianche più che giocabili, anzi, decisamente forti (vedere l’attuale metagame Standard per credere).
 
-È difficile trovare una carta che offra di più di Elesh Norn, Mother of Machines: un effetto <Card>Panharmonicon</Card> per noi, un effetto <Card>Torpor Orb<Card> per gli avversari, un buon body. Il tutto a fronte di un costo di mana ragionevole e con un singolo mana bianco (quindi non è difficile giocarla in un mazzo multicolore).
+È difficile trovare una carta che offra di più di Elesh Norn, Mother of Machines: un effetto <Card>Panharmonicon</Card> per noi, un effetto <Card>Torpor Orb</Card> per gli avversari, un buon body. Il tutto a fronte di un costo di mana ragionevole e con un singolo mana bianco (quindi non è difficile giocarla in un mazzo multicolore).
 
 La seconda abilità di Elesh Norn fa innescare una seconda volta le abilità “enter the battlefield” dei nostri permanenti. Vale solo per le abilità innescate: non facciamo confusione con altre cose che accadono all’ingresso in campo, ma non sono innescate. Ad esempio:
 
