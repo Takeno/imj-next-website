@@ -4,7 +4,8 @@ createdAt: 2023-04-19T08:06:16.665Z
 updatedAt: 2023-04-19T08:06:16.760Z
 author: nonno-scialpi
 category: carta-del-mese
-abstract: DA CAMBIARE
+abstract: "Doppia faccia ma cuore sincero: oggi parliamo di Dennick, nuova star
+  dello standard"
 ---
 ![unknown.png](blob:https://italianmagicjudges.net/a02ee661-792b-45b0-9a61-7a011b4df77f)
 
