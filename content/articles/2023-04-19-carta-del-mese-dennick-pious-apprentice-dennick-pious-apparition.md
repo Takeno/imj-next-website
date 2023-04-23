@@ -7,9 +7,8 @@ category: carta-del-mese
 abstract: "Doppia faccia ma cuore sincero: oggi parliamo di Dennick, nuova star
   dello standard"
 ---
-![unknown.png](blob:https://italianmagicjudges.net/a02ee661-792b-45b0-9a61-7a011b4df77f)
+![Dennick, Pious Apprentice](/uploads/dennick-pious.png "Dennick, Pious Apprentice")
 
-\
 "Piacere Dennick, mi spiace disturbarla, lei crede nella vita oltre la morte?"
 
 Se in Standard Grixis rimane il mazzo da battere (o da giocare), Esper Legends costituisce un’ottima alternativa: batte consistentemente Grixis e se la gioca con gli altri mazzi del metagame.
