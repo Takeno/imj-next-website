@@ -17,7 +17,7 @@ In questo, Dennick fa la sua parte: front face propone buone stats e due abilit�
 
 Se ci sentiamo più “aggro”, Dennick si gioca anche in U/W Soldiers.
 
-* **Un novello Giano** 
+## Un novello Giano
 
 Dennick può essere giocato dalla mano come Pious Apprentice o dal cimitero come Pious Apparition (via disturb). C’è qualcosa da dire in proposito.
 
@@ -31,7 +31,7 @@ Se nominiamo “Dennick” senza specificare, è interesse di entrambi i giocato
 
 Pious Apparition in pila è bianco-blu (ha un indicatore di colore), ed ha mana value due (le back face delle carte con disturb hanno lo stesso mana value della front face). Pious Apparition può essere neutralizzato da <Card>Gainsay</Card> o da <Card>Spell Snare</Card>.
 
-* **Il peso delle parole** 
+## Il peso delle parole
 
 Rivolgiamo ora la nostra attenzione a seconda e terza abilità di Pious Apparition.
 
