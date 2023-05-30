@@ -21,7 +21,7 @@ Per adesso, occupiamoci delle Battle - Siege e prendiamo come esempio la forte e
 
  Battle è ufficialmente un nuovo tipo di carta (<Card>Tarmogoyf</Card> ringrazia, le carte con Delirium ringraziano) e un nuovo tipo di permanente (<Card>Engineered Explosives</Card> le può distruggere, <Card>Nevinyrral’s Disk</Card> è, ahilui, sempre più obsoleto).
 
-* **Prepararsi all’assedio!**
+## Prepararsi all’assedio!
 
 Quando una Battle entra in campo, dobbiamo assegnarle un protettore. Il protettore non può essere il controllore: dobbiamo scegliere come protettore il nostro avversario (o, in multiplayer, uno dei nostri avversari). Si noti però che la Battle è sempre sotto il nostro controllo: ad esempio, Invasion of Ikoria conferisce due punti di devozione al verde a noi, non al protettore.
 
@@ -29,7 +29,7 @@ Le battle si aggiungono a giocatori e planeswalker nella categoria “oggetti ch
 
 Se siamo il protettore di una battle, non possiamo attaccarla con le nostre creature, ma possiamo bersagliarla con le nostre magie e abilità (la seconda abilità di <Card>Portent Tracker</Card> può essere usata per “caricare” di segnalini una Battle che stiamo proteggendo)
 
-* **Una gradita ricompensa…**
+## Una gradita ricompensa…
 
  Tutte le Battle - Siege sono carte doppia faccia trasformabili. Il modo più semplice di trasformarle è esaurirne i defense counter, o attaccando o facendo danno diretto.
 
@@ -67,5 +67,5 @@ Zilortha è comunque verde, in virtù del suo indicatore di colore.
 
 Come menzionato da Wizards nelle note di release di March of the Machine, i 36 assedi che conosciamo sono solo il primo tra i sottotipi di carta Battle in programma. Anche se ancora non sappiamo come funzioneranno le battaglie future rispetto alla prima tornata, le prospettive sembrano essere rosee per questo nuovissimo tipo di carta in grado di infondere qualche novità in un gioco che non ha visto un simile livello di cambiamento dall'introduzione di planeswalker e tribali nell’ottobre 2007.
 
-\
+---
 *Revisione a cura di Eleonora Siorpaes.*
