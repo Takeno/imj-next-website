@@ -4,7 +4,7 @@ createdAt: 2023-10-02T07:11:36.562Z
 updatedAt: 2023-10-02T07:11:36.678Z
 author: nonno-scialpi
 category: carta-del-mese
-abstract: Cosa bolle nel calderone?
+abstract: Nonno Scialpi ci svela la ricetta perfetta per scombare!
 ---
 La competizione per il titolo di “carta più costosa dell’espansione Wilds of Eldraine” è un testa a testa tra Beseech the Mirror e Agatha’s Soul Cauldron.
 
@@ -29,7 +29,7 @@ Se vogliamo attivare l’abilità unearth di <Card>Yotian Frontliner</Card>, e n
 
 # **Seconda abilità – Le “carte creatura”**
 
-Abbiamo appena esposto il concetto di “carta creatura”. Quindi, la seconda abilità si riferisce a tutte le carte nel nostro cimitero che hanno il tipo creatura. Facile, vero? Attenzione ai casi particolari…
+Abbiamo appena esposto il concetto di “carta creatura”. Quindi, la seconda abilità si riferisce a tutte le carte *che abbiamo esiliato dal cimitero* che hanno il tipo creatura. Facile, vero? Attenzione ai casi particolari…
 
 * <Card>Grist, the Hunger Tide</Card>, quando è nel cimitero, è una carta creatura. Il calderone conferisce alle nostre creature con segnalini tutte le loyalty abilities di Grist! Divertente.
 * Le carte doppia faccia nel cimitero hanno solo la front face. Il Calderone può conferire l’abilità di <Card>Town Gossipmonger</Card>, ma non quella della sua back face, Incited Rabble.
