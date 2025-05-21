@@ -15,8 +15,8 @@ const MagicCard = function ({children}: {children: string}) {
       )}`}
       target="_blank"
       rel="noreferrer"
-      data-html={true}
-      data-tip={`<img src="https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=${encodeURIComponent(
+      data-tooltip-id="my-tooltip"
+      data-tooltip-html={`<img src="https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=${encodeURIComponent(
         children
       )}" />`}
     >

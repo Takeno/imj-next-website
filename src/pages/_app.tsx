@@ -1,7 +1,7 @@
 import type {ReactElement, ReactNode} from 'react';
 import type {NextPage} from 'next';
 import type {AppProps} from 'next/app';
-import ReactTooltip from 'react-tooltip';
+import {Tooltip} from 'react-tooltip';
 
 import BaseLayout from '../components/Layout/BaseLayout';
 
@@ -102,7 +102,7 @@ function MyApp({Component, pageProps}: AppPropsWithLayout) {
         <meta name="theme-color" content="#ffffff" />
       </Head>
       {getLayout(<Component {...pageProps} />)}
-      <ReactTooltip />
+      <Tooltip id="my-tooltip" />
 
       <Script
         src="https://www.googletagmanager.com/gtag/js?id=G-GMSWB08M7J"
