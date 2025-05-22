@@ -174,9 +174,8 @@ Deadpool entra, e scambia text box con Tovolar, Dire Overlord.
 
 Che succede?
 
-- Deadpool acquisisce il text box di Tovolar, Dire Overlord, compreso daybound. <br />Se daybound, o un altro effetto, tentano di trasformare Deadpool, non accade nulla, perchè Deadpool ha una faccia sola.
-
-- Tovolar, Dire Overlord acquisisce il text box di Deadpool: perde daybound, e con essa la capacità di trasformarsi per conto suo.
+* Deadpool acquisisce il text box di Tovolar, Dire Overlord, compreso daybound. <br />Se daybound, o un altro effetto, tentano di trasformare Deadpool, non accade nulla, perchè Deadpool ha una faccia sola.
+* Tovolar, Dire Overlord acquisisce il text box di Deadpool: perde daybound, e con essa la capacità di trasformarsi per conto suo.
 
 Se un effetto come Moonmist tenta di trasformarlo, lo fa - nel senso che la carta cambia faccia fisicamente.
 
@@ -192,12 +191,13 @@ Ok, ok, vediamo di sbizzarrirci, e di coprire anche i casi più particolari.
 
 ### Dress Down/Humility
 
+![Dress Down](/uploads/mh2-39-dress-down.png)
+
 **Scenario 1:** Dress Down in campo, entra Deadpool. Che succede?
 
 Ben poco. La presenza di Dress Down fa sì che Deadpool entri come “vanilla”, quindi senza la sua abilità “as enters”. Non avviene alcuno scambio.
 
 Deadpool rimane una creatura senza abilità. Quando Dress Down lascia il campo di battaglia, le riacquista.  
-
 
 **Scenario 2:** Deadpool in campo, entra Dress Down. Che succede?
 
