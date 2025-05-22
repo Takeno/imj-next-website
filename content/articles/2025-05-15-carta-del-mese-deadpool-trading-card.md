@@ -102,7 +102,7 @@ Risolve uno Show and Tell, AP mette in campo Deadpool, NAP mette in campo Solemn
 
 Quando Deadpool lascia il campo di battaglia, che succede ai fini delle abilità che si innescano a causa di un cambio di zona? Bisogna guardare Deadpool com’era sul campo di battaglia, o com’è nella nuova zona? Dipende.
 
-![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXezJafC7LopaCFlNIQULvRriBMg-KdSIbtVx9APBpZLokQ_6qfYQvTPcbxjGtDgxFwTFyfUr6iQA9B5SFBNh3p_0UXKr85IzUkZkrjb_L7LS_bdoc7fB6NUdvTkg7XZPhs2is5xvA?key=MAFqs4zJsgQzIsttQ2aul_tR)
+![Ulamog, the infinite gyre](/uploads/ulamog-the-infinite-gyre.png)
 
 Le abilità che si innescano quando una creatura “muore” o “lascia il campo di battaglia” parlano di “creature”, ovvero considerano le creature così com’erano sul campo di battaglia.
 
@@ -136,7 +136,9 @@ L’abilità Myriad funziona allo stesso modo: tutte le copie generate entrano c
 
 In entrambi i casi, se il nostro obiettivo era "rubare" il text box alle creature avversarie, e appioppare loro del text box detrimental in cambio, comunque ci siamo riusciti.
 
-Se vogliamo tenere in campo più copie di un permanente leggendario, esistono effetti specifici, pare.![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXeAJ6_eRmmypGZ3LQama0q57BkwmBnTNDgpqsYWSUAX0kpNq3y1Eu24DqIJLdm7Z2NYxszTqa1BfGUNuCex-9Uqbr-Jl--RwicR91jQJxkxwtbKWt7ABN8D8PAvI2XULmu1ritO2Q?key=MAFqs4zJsgQzIsttQ2aul_tR)
+Se vogliamo tenere in campo più copie di un permanente leggendario, esistono effetti specifici, pare.
+
+![Heat Shimmer](/uploads/heat-shimmer.png)
 
 Esistono effetti di copia che aggiungono abilità alla copia generata (es. Heat Shimmer)
 
@@ -172,11 +174,9 @@ Deadpool entra, e scambia text box con Tovolar, Dire Overlord.
 
 Che succede?
 
-\- Deadpool acquisisce il text box di Tovolar, Dire Overlord, compreso daybound. 
+- Deadpool acquisisce il text box di Tovolar, Dire Overlord, compreso daybound. <br />Se daybound, o un altro effetto, tentano di trasformare Deadpool, non accade nulla, perchè Deadpool ha una faccia sola.
 
-Se daybound, o un altro effetto, tentano di trasformare Deadpool, non accade nulla, perchè Deadpool ha una faccia sola.
-
-\- Tovolar, Dire Overlord acquisisce il text box di Deadpool: perde daybound, e con essa la capacità di trasformarsi per conto suo.
+- Tovolar, Dire Overlord acquisisce il text box di Deadpool: perde daybound, e con essa la capacità di trasformarsi per conto suo.
 
 Se un effetto come Moonmist tenta di trasformarlo, lo fa - nel senso che la carta cambia faccia fisicamente.
 
@@ -184,25 +184,26 @@ Tuttavia, il text-changing effect esiste ancora, e continua ad applicarsi.
 
 Il text-changing effect sovrascriverà il testo di Tovolar, the Midnight Scourge anzichè quello di Tovolar, Dire Overlord, ma alla fine la creatura avrà sempre il text box di Deadpool.
 
- REGOLE AVANZATE/CORNER CASES
+## REGOLE AVANZATE/CORNER CASES
 
 Non vi basta fin qui? Vi è capitata una situazione che non è coperta da quanto detto finora? Il vostro tavolo da gioco deve essere piuttosto interessante.
 
 Ok, ok, vediamo di sbizzarrirci, e di coprire anche i casi più particolari.
 
-### Dress Down/Humility![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXeCm1AaEvt1Pljbh28opDis7Lidka0e1EMftgBvXXq5lPUfpnDhqIW9RpZCEajgvAJlCcj6e9yoQnEyEi16QyZBqGoCO5wUSIqNBW2OTmQdkpk0y8J0PeDeuV4ZPJCb3Vzn2sfV?key=MAFqs4zJsgQzIsttQ2aul_tR)
+### Dress Down/Humility
 
-1. Dress Down in campo, entra Deadpool. Che succede?
+**Scenario 1:** Dress Down in campo, entra Deadpool. Che succede?
 
-Ben poco. La presenza di Dress Down fa sì che Deadpool entri come “vanilla”, quindi senza la sua abilità “as enters”. Non avviene alcuno scambio. 
+Ben poco. La presenza di Dress Down fa sì che Deadpool entri come “vanilla”, quindi senza la sua abilità “as enters”. Non avviene alcuno scambio.
 
 Deadpool rimane una creatura senza abilità. Quando Dress Down lascia il campo di battaglia, le riacquista.  
 
-2. Deadpool in campo, entra Dress Down. Che succede?
+
+**Scenario 2:** Deadpool in campo, entra Dress Down. Che succede?
 
 Deadpool acquisisce il text box della creatura con cui ha scambiato al layer 3, e poi perde tutte le abilità al layer 6. Deadpool è “vanilla” fin quando Dress Down è in campo.
 
-Deadpool scambia con una creatureland
+### Deadpool scambia con una creatureland
 
 L’avversario controlla una Mutavault animata, noi giochiamo Deadpool e scambiamo.
 
@@ -215,7 +216,7 @@ Una foresta base col text box di Deadpool rimane una foresta, e continua a dare 
 
 Deadpool che scambia text box con una foresta base non dà mana.
 
-Deadpool scambia con un planeswalker
+### Deadpool scambia con un planeswalker
 
 (Ehi, stiamo parlando di Wade Wilson, tutto è possibile)
 
